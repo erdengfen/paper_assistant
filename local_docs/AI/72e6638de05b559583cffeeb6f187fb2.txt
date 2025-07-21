@@ -1,0 +1,9 @@
+标题: One weird trick for parallelizing convolutional neural networks
+
+作者: Alex Krizhevsky
+
+发表日期: 2014-04-23
+
+摘要: I present a new way to parallelize the training of convolutional neural
+networks across multiple GPUs. The method scales significantly better than all
+alternatives when applied to modern convolutional neural networks.

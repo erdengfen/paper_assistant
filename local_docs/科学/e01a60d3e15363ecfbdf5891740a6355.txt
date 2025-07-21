@@ -1,0 +1,7 @@
+标题: Bridging the Digital Divide: User Interface Design Principles for Enhancing Elderly Learners’ Engagement with Educational Technology
+
+作者: Wannapipat, Wanwisa, Wiersma, Wanpen
+
+发表日期: 2026-01-01
+
+摘要: This examines how user interface (UI) design affects elderly users’ engagement with educational technology. Through mixed-methods research with adults aged 65–80 (n = 300), we identified critical UI elements that significantly impact learning outcomes. Statistical analysis revealed that font size, navigation clarity, and information organization were strong predictors of learning outcomes (R2 = 0.65, p < 0.001), with digital literacy being the most influential factor (β = 0.42, p < 0.001). Factor analysis identified three key dimensions of UI experience: Usability, Visual Design, and Accessibility, accounting for 70% of variance. Qualitative data uncovered themes of cognitive overload and “design disqualification,” where participants felt excluded by interfaces created primarily for younger users. These findings demonstrate the direct relationship between interface accessibility and learning opportunities for older adults. We propose evidence-based design guidelines for age-inclusive digital environments that promote digital literacy and lifelong learning, with significant implications for technology developers, educators, and policymakers seeking to create more inclusive learning environments.

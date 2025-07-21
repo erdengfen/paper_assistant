@@ -1,0 +1,7 @@
+标题: Enhancing Language Learning Through AI-Driven Feedback and Collaborative Virtual Reality
+
+作者: Chalouy, Noppanat, Tsai, An-Chao
+
+发表日期: 2026-01-01
+
+摘要: This pilot study examines the integration of AI-driven feedback in a Collaborative Virtual Reality (CVR) environment for language learning, focusing on self-regulated learning and feedback mechanisms. Using the Technology Acceptance Model (TAM), it compares CVR-supported collaborative activities with traditional VR-based AI learning. Participants engaged in immersive role-play tasks, interacting with peers and an AI assistant that provided real-time feedback on pronunciation and grammar. Paired-sample t-tests revealed that CVR+AI learners showed significantly higher motivation (p = 0.018) and perceived usefulness (p = 0.006) than traditional VR+AI learners. These results suggest that real-time collaboration and AI-driven feedback enhance engagement and self-regulated learning. The study highlights the potential of CVR for creating interactive and adaptive virtual learning environments, offering insights for future AI-assisted language education.

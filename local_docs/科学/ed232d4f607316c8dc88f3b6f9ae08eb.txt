@@ -1,0 +1,7 @@
+标题: Play My Math: Design and Implementation of a Fraction Generator Tool Within a Mathematical Musician Digital Learning Platform
+
+作者: Roa, Eric Roldan, Li, Hongtao, Ramos Martinez, Juan Carlos, Raave, Doris Kristina, Roa, Erika Berenice Roldan, Politimou, Nina, Colasante, Tyler, Malti, Tina, Specht, Marcus, Mori, Julia
+
+发表日期: 2026-01-01
+
+摘要: In this paper, we present and describe a Fraction Generator tool, which is one of the components of our mathematical musician digital learning platform, Play My Math. Teachers and students can use the Fraction Generator tool to discuss, practice, and reinforce conceptual and procedural knowledge of fractions. To that end, the tool offers customizable settings that randomly render exercises in six different categories (i.e., identifying fractions, identifying notations, comparison of fractions, arithmetic applied to fractions, least common multiple, and quantity of a fraction). Additionally, we offer an extra module called the Worksheet Demonstration that teachers can use to guide the students when working with paper-based worksheets. The rationale for the Fraction Generator came from feedback given by teachers during a study we conducted in Mexico in 2024. For designing our tool, we considered principles of technology-enhanced learning and tangible learning interfaces. Finally, to further develop our Fraction Generator initial design, we analyzed qualitative data coming from UK teachers’ feedback as part of an intervention we conducted in the UK primary education context at the beginning of 2025.

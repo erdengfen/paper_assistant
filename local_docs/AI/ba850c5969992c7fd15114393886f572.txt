@@ -1,0 +1,20 @@
+标题: Personalized Optimization for Computer Experiments with Environmental
+  Inputs
+
+作者: Shifeng Xiong
+
+发表日期: 2016-07-06
+
+摘要: Optimization problems with both control variables and environmental variables
+arise in many fields. This paper introduces a framework of personalized
+optimization to han- dle such problems. Unlike traditional robust optimization,
+personalized optimization devotes to finding a series of optimal control
+variables for different values of environmental variables. Therefore, the
+solution from personalized optimization consists of optimal surfaces defined on
+the domain of the environmental variables. When the environmental variables can
+be observed or measured, personalized optimization yields more reasonable and
+better solution- s than robust optimization. The implementation of personalized
+optimization for complex computer models is discussed. Based on statistical
+modeling of computer experiments, we provide two algorithms to sequentially
+design input values for approximating the optimal surfaces. Numerical examples
+show the effectiveness of our algorithms.

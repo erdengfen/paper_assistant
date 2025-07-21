@@ -1,0 +1,15 @@
+标题: Discrete Gradient 
+              
+                
+              
+              $$\theta $$
+              
+                θ
+              
+            -Methods for Port-Hamiltonian Systems
+
+作者: D’Ambrosio, Raffaele, Di Donato, Simone
+
+发表日期: 2026-01-01
+
+摘要: The paper is focused on the geometric numerical integration of port-Hamiltonian problems, via discrete gradient $$\theta $$ θ -methods. The ability of this method to retain inherent dissipativity properties of the exact dynamics is considered, as well as the stability properties of the numerical scheme with respect to a test problem based on a controlled pendulum are treated. The analysis is also equipped by selected numerical experiments.

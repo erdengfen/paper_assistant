@@ -1,0 +1,7 @@
+标题: Predicting Resource Requirements for Disaster Managers Using Machine Learning
+
+作者: Kumari, Meena, Johnson, Kenneth
+
+发表日期: 2026-01-01
+
+摘要: Disaster management aims to reduce human fatalities, safeguarding infrastructure, and minimizing economic damage of the region affected by a disaster. It is therefore critical for disaster managers to forecast resourcing needs before a disaster occurs. Our paper proposes a workflow for forecasting requirements based on the numbers of affected people and the required resources, such as food and medical supplies. We apply a Python implementation of our workflow to survey data obtained in the aftermath of the tropical cyclone Idai, which struck Mozambique in 2019. The code will be implemented using Python and Jupyter notebooks, and the model performance will be checked with a metric such as a correlation matrix and accuracy. The found results are 71% for logistic regression and 47.24 as low error for linear regression. These results mean that ML may yield more valuable predictions in comparison to classic methods and, in its turn, may increase disaster management potential.

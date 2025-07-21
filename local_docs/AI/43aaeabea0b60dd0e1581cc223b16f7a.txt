@@ -1,0 +1,25 @@
+标题: Enhancing Physics-Informed Neural Networks Through Feature Engineering
+
+作者: Shaghayegh Fazliani, Zachary Frangella, Madeleine Udell
+
+发表日期: 2025-02-11
+
+摘要: Physics-Informed Neural Networks (PINNs) seek to solve partial differential
+equations (PDEs) with deep learning. Mainstream approaches that deploy
+fully-connected multi-layer deep learning architectures require prolonged
+training to achieve even moderate accuracy, while recent work on feature
+engineering allows higher accuracy and faster convergence. This paper
+introduces SAFE-NET, a Single-layered Adaptive Feature Engineering NETwork that
+achieves orders-of-magnitude lower errors with far fewer parameters than
+baseline feature engineering methods. SAFE-NET returns to basic ideas in
+machine learning, using Fourier features, a simplified single hidden layer
+network architecture, and an effective optimizer that improves the conditioning
+of the PINN optimization problem. Numerical results show that SAFE-NET
+converges faster and typically outperforms deeper networks and more complex
+architectures. It consistently uses fewer parameters -- on average, 65% fewer
+than the competing feature engineering methods -- while achieving comparable
+accuracy in less than 30% of the training epochs. Moreover, each SAFE-NET epoch
+is 95% faster than those of competing feature engineering approaches. These
+findings challenge the prevailing belief that modern PINNs effectively learn
+features in these scientific applications and highlight the efficiency gains
+possible through feature engineering.

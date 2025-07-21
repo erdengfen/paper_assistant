@@ -1,0 +1,18 @@
+标题: Meta-Unsupervised-Learning: A supervised approach to unsupervised
+  learning
+
+作者: Vikas K. Garg, Adam Tauman Kalai
+
+发表日期: 2016-12-29
+
+摘要: We introduce a new paradigm to investigate unsupervised learning, reducing
+unsupervised learning to supervised learning. Specifically, we mitigate the
+subjectivity in unsupervised decision-making by leveraging knowledge acquired
+from prior, possibly heterogeneous, supervised learning tasks. We demonstrate
+the versatility of our framework via comprehensive expositions and detailed
+experiments on several unsupervised problems such as (a) clustering, (b)
+outlier detection, and (c) similarity prediction under a common umbrella of
+meta-unsupervised-learning. We also provide rigorous PAC-agnostic bounds to
+establish the theoretical foundations of our framework, and show that our
+framing of meta-clustering circumvents Kleinberg's impossibility theorem for
+clustering.

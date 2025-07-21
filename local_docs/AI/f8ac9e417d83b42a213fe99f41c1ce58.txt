@@ -1,0 +1,22 @@
+标题: Tracking GPTs Third Party Service: Automation, Analysis, and Insights
+
+作者: Chuan Yan, Liuhuo Wan, Bowei Guan, Fengqi Yu, Guangdong Bai, Jin Song Dong
+
+发表日期: 2025-06-18
+
+摘要: ChatGPT has quickly advanced from simple natural language processing to
+tackling more sophisticated and specialized tasks. Drawing inspiration from the
+success of mobile app ecosystems, OpenAI allows developers to create
+applications that interact with third-party services, known as GPTs. GPTs can
+choose to leverage third-party services to integrate with specialized APIs for
+domain-specific applications. However, the way these disclose privacy setting
+information limits accessibility and analysis, making it challenging to
+systematically evaluate the data privacy implications of third-party integrate
+to GPTs. In order to support academic research on the integration of
+third-party services in GPTs, we introduce GPTs-ThirdSpy, an automated
+framework designed to extract privacy settings of GPTs. GPTs-ThirdSpy provides
+academic researchers with real-time, reliable metadata on third-party services
+used by GPTs, enabling in-depth analysis of their integration, compliance, and
+potential security risks. By systematically collecting and structuring this
+data, GPTs-ThirdSpy facilitates large-scale research on the transparency and
+regulatory challenges associated with the GPT app ecosystem.

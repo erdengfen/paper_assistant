@@ -1,0 +1,7 @@
+标题: Emotions Geogame: Developing a Game for Mapping Emotions and Evaluating Places
+
+作者: Poplin, Alenka, Sharma, Niall, Siddharth, Kumar, Garau, Chiara
+
+发表日期: 2026-01-01
+
+摘要: This paper demonstrates the state-of-the-art development of the Emotions Geogame. The main goal of the Emotions Geogame is to motivate users/players to go on an adventure, explore their built environment, socialize with other residents and report about the emotions they feel related to the visited places. This research is based on the three pillars of the previous research, which include research on emotions and their meaning, mapping emotions related to places, and location-based games that inspired this test implementation. The core component of the Emotions Geogame is its invitation to the users/players to record their emotions. It is accomplished in a two-step process. In the first step the user selects the emotion felt at the selected place. In the second step the user can provide a more comprehensive response to the reasons for the recorded feeling that stems from the environment. In the next steps of the implementation, the formal and dramatic elements of the Emotions Geogame will be further developed. The testing and data collection will be organized in the USA, Italy and India. The paper concludes with a discussion and directions for further research and implementation.

@@ -1,0 +1,9 @@
+标题: Exponential Convergence of the Deep Neural Network Approximation for
+  Analytic Functions
+
+作者: Weinan E, Qingcan Wang
+
+发表日期: 2018-07-01
+
+摘要: We prove that for analytic functions in low dimension, the convergence rate
+of the deep neural network approximation is exponential.

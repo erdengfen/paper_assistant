@@ -1,0 +1,15 @@
+标题: Structural Recurrent Neural Network (SRNN) for Group Activity Analysis
+
+作者: Sovan Biswas, Juergen Gall
+
+发表日期: 2018-02-06
+
+摘要: A group of persons can be analyzed at various semantic levels such as
+individual actions, their interactions, and the activity of the entire group.
+In this paper, we propose a structural recurrent neural network (SRNN) that
+uses a series of interconnected RNNs to jointly capture the actions of
+individuals, their interactions, as well as the group activity. While previous
+structural recurrent neural networks assumed that the number of nodes and edges
+is constant, we use a grid pooling layer to address the fact that the number of
+individuals in a group can vary. We evaluate two variants of the structural
+recurrent neural network on the Volleyball Dataset.

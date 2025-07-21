@@ -1,0 +1,7 @@
+标题: Modeling Government Business Ecosystems with Ecosystem Governance Compass
+
+作者: Kolehmainen, Taija, Ghezzi, Reetta, Mikkonen, Tommi
+
+发表日期: 2026-01-01
+
+摘要: The current approach to public ICT procurement is characterized by siloed, application-specific ICT architectures, with each system operating in isolation from others. This is in direct contrast to the growing need for increased collaboration to provide public services in an efficient and sustainable way. The concept of establishing government business ecosystems has emerged as a potential solution, however, the formation of such broad stakeholder networks in a rigid public regulation environment is a complex task. In the context of public ICT procurement processes, challenges arise from the lack of common practices, coordination and decision-making, interoperable systems, and a holistic understanding. These characteristics collectively make ecosystem governance challenging. In this use case study, we apply Ecosystem Governance Compass, a novel domain-specific modeling tool, to study a government business ecosystem in a holistic and detailed manner. The study will present new findings about ecosystem formation, thus validating its usefulness, and will also present some practical experiences in modeling ecosystem governance structures with it.

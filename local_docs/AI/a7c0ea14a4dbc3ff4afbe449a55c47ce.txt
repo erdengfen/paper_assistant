@@ -1,0 +1,15 @@
+标题: A Review of Semi Supervised Learning Theories and Recent Advances
+
+作者: Enmei Tu, Jie Yang
+
+发表日期: 2019-05-28
+
+摘要: Semi-supervised learning, which has emerged from the beginning of this
+century, is a new type of learning method between traditional supervised
+learning and unsupervised learning. The main idea of semi-supervised learning
+is to introduce unlabeled samples into the model training process to avoid
+performance (or model) degeneration due to insufficiency of labeled samples.
+Semi-supervised learning has been applied successfully in many fields. This
+paper reviews the development process and main theories of semi-supervised
+learning, as well as its recent advances and importance in solving real-world
+problems demonstrated by typical application examples.

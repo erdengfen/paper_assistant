@@ -1,0 +1,7 @@
+标题: Imbalanced Learning: Semi-Supervised Graph Imbalanced Regression
+
+作者: Liu, Gang, Inae, Eric, Jiang, Meng
+
+发表日期: 2026-01-01
+
+摘要: Data imbalance is easily found in annotated data when the observations of certain continuous label values are difficult to collect for regression tasks. When they come to molecule and polymer property predictions, the annotated graph datasets are often small because labeling them requires expensive equipment and effort. To address the lack of examples of rare label values in graph regression tasks, in this chapter, we introduce a semi-supervised framework to progressively balance training data and reduce model bias via self-training. The training data balance is achieved by (1) pseudo-labeling more graphs for under-represented labels with a novel regression confidence measurement and (2) augmenting graph examples in latent space for remaining rare labels after data balancing with pseudo-labels. The former is to identify quality examples from unlabeled data whose labels are confidently predicted and sample a subset of them with a reverse distribution from the imbalanced annotated data. The latter collaborates with the former to target a perfect balance using a novel label-anchored mixup algorithm. We show experiment results in seven regression tasks. These results demonstrate that the imbalanced learning framework significantly reduces the error of predicted molecular and polymer properties, especially in under-represented label areas.

@@ -1,0 +1,15 @@
+标题: Mean-Square Monotonicity Analysis of 
+              
+                
+              
+              $$\theta $$
+              
+                θ
+              
+            -Maruyama Methods
+
+作者: Biščević, Helena, D’Ambrosio, Raffaele
+
+发表日期: 2026-01-01
+
+摘要: The paper focuses on the analysis of mean-square contractivity of the numerical dynamics arising from the application of $$\theta $$ θ -Maruyama methods to stochastic differential equations (SDEs) with linear affine drift and diffusion coefficients. We prove that the numerical deviation between two distinct solutions of the SDE is monotonically non-increasing under the same stepsize restrictions needed for mean-square stability or holds unconditionally for certain values of $$\theta $$ θ . A selection of numerical experiments complements the theoretical investigation.

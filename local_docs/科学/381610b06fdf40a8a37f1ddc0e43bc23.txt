@@ -1,0 +1,7 @@
+标题: Biogas Production from Food Waste
+
+作者: Chávez-González, Mónica L., Aguilar-Zarate, Pedro, Haghi, A. K.
+
+发表日期: 2026-01-01
+
+摘要: Biogas production is a process that converts organic materials into a mixture of gases, primarily methane (CH_4) and carbon dioxide (CO_2), through the action of microorganisms in the absence of oxygen. This process, known as anaerobic digestion (AD), has garnered increasing recognition as a sustainable method for generating renewable energy and addressing global waste management challenges.

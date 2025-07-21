@@ -1,0 +1,26 @@
+标题: Exploring the Imposition of Synaptic Precision Restrictions For
+  Evolutionary Synthesis of Deep Neural Networks
+
+作者: Mohammad Javad Shafiee, Francis Li, Alexander Wong
+
+发表日期: 2017-07-01
+
+摘要: A key contributing factor to incredible success of deep neural networks has
+been the significant rise on massively parallel computing devices allowing
+researchers to greatly increase the size and depth of deep neural networks,
+leading to significant improvements in modeling accuracy. Although deeper,
+larger, or complex deep neural networks have shown considerable promise, the
+computational complexity of such networks is a major barrier to utilization in
+resource-starved scenarios. We explore the synaptogenesis of deep neural
+networks in the formation of efficient deep neural network architectures within
+an evolutionary deep intelligence framework, where a probabilistic generative
+modeling strategy is introduced to stochastically synthesize increasingly
+efficient yet effective offspring deep neural networks over generations,
+mimicking evolutionary processes such as heredity, random mutation, and natural
+selection in a probabilistic manner. In this study, we primarily explore the
+imposition of synaptic precision restrictions and its impact on the
+evolutionary synthesis of deep neural networks to synthesize more efficient
+network architectures tailored for resource-starved scenarios. Experimental
+results show significant improvements in synaptic efficiency (~10X decrease for
+GoogLeNet-based DetectNet) and inference speed (>5X increase for
+GoogLeNet-based DetectNet) while preserving modeling accuracy.

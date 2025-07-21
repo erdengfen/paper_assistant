@@ -1,0 +1,12 @@
+标题: VC dimensions of group convolutional neural networks
+
+作者: Philipp Christian Petersen, Anna Sepliarskaia
+
+发表日期: 2022-12-19
+
+摘要: We study the generalization capacity of group convolutional neural networks.
+We identify precise estimates for the VC dimensions of simple sets of group
+convolutional neural networks. In particular, we find that for infinite groups
+and appropriately chosen convolutional kernels, already two-parameter families
+of convolutional neural networks have an infinite VC dimension, despite being
+invariant to the action of an infinite group.

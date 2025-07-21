@@ -1,0 +1,7 @@
+标题: MST-SGAN-KGQA: An Approach for Industrial Knowledge Graph Quality Assessment
+
+作者: Zhu, Xun, Li, Yuanyuan, Guo, Linsheng, Huang, Bo, Fang, Zhijun
+
+发表日期: 2026-01-01
+
+摘要: Industrial Knowledge Graphs (IKGs) play a pivotal role in Industry 4.0, supporting applications like predictive maintenance and production optimization. However, assessing IKG quality is challenging due to spatio-temporal dynamics, multimodal data integration, and noise-induced anomalies. This paper proposes MST-SGAN-KGQA, a framework integrating Multi-modal embeddings, Spatio-Temporal graph neural networks, Generative Adversarial Networks (GANs), and self-supervised learning for Knowledge Graph Quality Assessment. Experimental evaluations demonstrate that MST-SGAN-KGQA outperforms existing methods, showing significant improvements in anomaly detection (0.88) and robustness (0.91), making it suitable for complex industrial environments.

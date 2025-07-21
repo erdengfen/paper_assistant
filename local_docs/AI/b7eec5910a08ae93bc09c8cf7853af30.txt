@@ -1,0 +1,17 @@
+标题: Guaranteed Quantization Error Computation for Neural Network Model
+  Compression
+
+作者: Wesley Cooke, Zihao Mo, Weiming Xiang
+
+发表日期: 2023-04-26
+
+摘要: Neural network model compression techniques can address the computation issue
+of deep neural networks on embedded devices in industrial systems. The
+guaranteed output error computation problem for neural network compression with
+quantization is addressed in this paper. A merged neural network is built from
+a feedforward neural network and its quantized version to produce the exact
+output difference between two neural networks. Then, optimization-based methods
+and reachability analysis methods are applied to the merged neural network to
+compute the guaranteed quantization error. Finally, a numerical example is
+proposed to validate the applicability and effectiveness of the proposed
+approach.

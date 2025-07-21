@@ -1,0 +1,25 @@
+标题: Loss Functions for Predictor-based Neural Architecture Search
+
+作者: Han Ji, Yuqi Feng, Jiahao Fan, Yanan Sun
+
+发表日期: 2025-06-06
+
+摘要: Evaluation is a critical but costly procedure in neural architecture search
+(NAS). Performance predictors have been widely adopted to reduce evaluation
+costs by directly estimating architecture performance. The effectiveness of
+predictors is heavily influenced by the choice of loss functions. While
+traditional predictors employ regression loss functions to evaluate the
+absolute accuracy of architectures, recent approaches have explored various
+ranking-based loss functions, such as pairwise and listwise ranking losses, to
+focus on the ranking of architecture performance. Despite their success in NAS,
+the effectiveness and characteristics of these loss functions have not been
+thoroughly investigated. In this paper, we conduct the first comprehensive
+study on loss functions in performance predictors, categorizing them into three
+main types: regression, ranking, and weighted loss functions. Specifically, we
+assess eight loss functions using a range of NAS-relevant metrics on 13 tasks
+across five search spaces. Our results reveal that specific categories of loss
+functions can be effectively combined to enhance predictor-based NAS.
+Furthermore, our findings could provide practical guidance for selecting
+appropriate loss functions for various tasks. We hope this work provides
+meaningful insights to guide the development of loss functions for
+predictor-based methods in the NAS community.

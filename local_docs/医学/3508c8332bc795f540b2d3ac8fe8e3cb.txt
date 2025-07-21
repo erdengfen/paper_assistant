@@ -1,0 +1,5 @@
+标题: Advancing cell therapy for neurodegenerative diseases.
+
+作者: Sally Temple
+
+摘要: Cell-based therapies are being developed for various neurodegenerative diseases that affect the central nervous system (CNS). Concomitantly, the roles of individual cell types in neurodegenerative pathology are being uncovered by genetic and single-cell studies. With a greater understanding of cellular contributions to health and disease and with the arrival of promising approaches to modulate them, effective therapeutic cell products are now emerging. This review examines how the ability to generate diverse CNS cell types from stem cells, along with a deeper understanding of cell-type-specific functions and pathology, is advancing preclinical development of cell products for the treatment of neurodegenerative diseases.

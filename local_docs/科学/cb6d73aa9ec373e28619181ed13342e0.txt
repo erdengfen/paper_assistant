@@ -1,0 +1,7 @@
+标题: Tearing Solutions for Tree Traversal in Stateful Hash-Based Cryptography
+
+作者: Hirch, Solane, Custers, Frank, Vredendaal, Christine
+
+发表日期: 2026-01-01
+
+摘要: Stateful hash-based signature schemes are a family of post-quantum signature schemes. XMSS and LMS, two digital signature schemes standardized by NIST, belong to this family. Both are structured as a collection of one-time signature key pairs, which are combined using Merkle binary tree. They rely on tree traversal algorithms to optimize time versus memory efficiency, reducing the signing time of the schemes at the cost of managing a larger amount of auxiliary data (i.e., state). In this paper, we focus on XMSS with the BDS algorithm when used in a practical setting on an embedded device. One challenge on such devices is that they can experience a loss of power unexpectedly. For instance, an NFC chip might be torn away from its power source In the case of such a tearing event, the validity of the state can be impacted: the algorithm does not update the state correctly if such an event occurs. We propose an algorithm based on BDS that we call BDSFix . This algorithm recovers the BDS state following a tearing event. Our algorithm either equals (for a single tearing event) or outperforms recovering the state through BDS for any number of tearings larger than 1. This ranges from a 9% speed-up for six subsequent tearing events to improvements by factors of up to 8 for a large number of tearing events.

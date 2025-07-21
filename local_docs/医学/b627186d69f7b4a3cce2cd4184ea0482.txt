@@ -1,0 +1,5 @@
+标题: Utilizing chemokines in cancer immunotherapy.
+
+作者: Florian Märkl, Duc Huynh, Stefan Endres, Sebastian Kobold
+
+摘要: Immune checkpoint inhibition and chimeric antigen receptor (CAR) T cell therapy have demonstrated stunning clinical efficacy in many cancer types. However, most patients do not respond to immunotherapies or relapse after an initial response, stressing the need for improved strategies. Chemokines, as mediators of immune cell trafficking, play an important role in the composition of the tumor microenvironment and exert both pro- and antitumorigenic functions. Here, chemokines may represent valuable prognostic biomarkers of response to immunotherapy and a strategy to improve immunotherapies. In this review, the pleiotropic functions of chemokines in the tumor microenvironment (TME) and strategies of utilizing chemokines or chemokine antagonism in immunotherapy are discussed. The review highlights preclinical and clinical studies that apply or target chemokines in monotherapy or in combination therapies.

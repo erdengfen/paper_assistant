@@ -1,0 +1,23 @@
+标题: Voices from the Frontier: A Comprehensive Analysis of the OpenAI
+  Developer Forum
+
+作者: Xinyi Hou, Yanjie Zhao, Haoyu Wang
+
+发表日期: 2024-08-03
+
+摘要: OpenAI's advanced large language models (LLMs) have revolutionized natural
+language processing and enabled developers to create innovative applications.
+As adoption grows, understanding the experiences and challenges of developers
+working with these technologies is crucial. This paper presents a comprehensive
+analysis of the OpenAI Developer Forum, focusing on (1) popularity trends and
+user engagement patterns, and (2) a taxonomy of challenges and concerns faced
+by developers. We first employ a quantitative analysis of the metadata from
+29,576 forum topics, investigating temporal trends in topic creation, the
+popularity of topics across different categories, and user contributions at
+various trust levels. We then qualitatively analyze content from 9,301 recently
+active topics on developer concerns. From a sample of 886 topics, we construct
+a taxonomy of concerns in the OpenAI Developer Forum. Our findings uncover
+critical concerns raised by developers in creating AI-powered applications and
+offer targeted recommendations to address them. This work not only advances
+AI-assisted software engineering but also empowers developer communities to
+shape the responsible evolution and integration of AI technology in society.

@@ -1,0 +1,16 @@
+标题: The fundamental nature of the log loss function
+
+作者: Vladimir Vovk
+
+发表日期: 2015-02-22
+
+摘要: The standard loss functions used in the literature on probabilistic
+prediction are the log loss function, the Brier loss function, and the
+spherical loss function; however, any computable proper loss function can be
+used for comparison of prediction algorithms. This note shows that the log loss
+function is most selective in that any prediction algorithm that is optimal for
+a given data sequence (in the sense of the algorithmic theory of randomness)
+under the log loss function will be optimal under any computable proper mixable
+loss function; on the other hand, there is a data sequence and a prediction
+algorithm that is optimal for that sequence under either of the two other
+standard loss functions but not under the log loss function.

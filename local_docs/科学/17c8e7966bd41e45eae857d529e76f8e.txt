@@ -1,0 +1,7 @@
+标题: Blockchain-Based Detection of Unauthorized Data Modification in Database
+
+作者: Loc, Cu Vinh, Hai, Nguyen Thanh, Viet, Truong Xuan, Viet, Tran Hoang, Thao, Le Hoang
+
+发表日期: 2026-01-01
+
+摘要: Internal assaults can frequently target applications that depend on centralized databases. A relational database’s data can be changed by any user with administrative access to the database system or hosting server. It would be very challenging to identify any illegal changes if this kind of person altered the relevant log files. It would also be difficult to attribute the assault to privileged users. We present a blockchain-based method in this study for creating a service related to student score management. The development of a database system based on the blockchain platform and associated services allows for the storing and querying of student learning outcomes. Concurrent with the present system, the database security system ensures data security, transparency, and integrity. We design a blockchain-based verification module that detects any unlawful changes and verifies the integrity of the associated tuples. Hyperledger Fabric, RESTful API, and MongoDB database have been used to implement our strategy. Our findings show that when using real data and SQL queries of different types and levels of complexity, the overhead of integrity verification remains constant per tuple in query results and increases linearly.

@@ -1,0 +1,22 @@
+标题: A Two Dimensional Feature Engineering Method for Relation Extraction
+
+作者: Hao Wang, Yanping Chen, Weizhe Yang, Yongbin Qin, Ruizhang Huang
+
+发表日期: 2024-04-07
+
+摘要: Transforming a sentence into a two-dimensional (2D) representation (e.g., the
+table filling) has the ability to unfold a semantic plane, where an element of
+the plane is a word-pair representation of a sentence which may denote a
+possible relation representation composed of two named entities. The 2D
+representation is effective in resolving overlapped relation instances.
+However, in related works, the representation is directly transformed from a
+raw input. It is weak to utilize prior knowledge, which is important to support
+the relation extraction task. In this paper, we propose a two-dimensional
+feature engineering method in the 2D sentence representation for relation
+extraction. Our proposed method is evaluated on three public datasets (ACE05
+Chinese, ACE05 English, and SanWen) and achieves the state-of-the-art
+performance. The results indicate that two-dimensional feature engineering can
+take advantage of a two-dimensional sentence representation and make full use
+of prior knowledge in traditional feature engineering. Our code is publicly
+available at
+https://github.com/Wang-ck123/A-Two-Dimensional-Feature-Engineering-Method-for-Entity-Relation-Extraction

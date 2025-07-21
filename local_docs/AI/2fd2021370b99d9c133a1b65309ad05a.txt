@@ -1,0 +1,14 @@
+标题: Logical Fuzzy Optimization
+
+作者: Emad Saad
+
+发表日期: 2013-04-05
+
+摘要: We present a logical framework to represent and reason about fuzzy
+optimization problems based on fuzzy answer set optimization programming. This
+is accomplished by allowing fuzzy optimization aggregates, e.g., minimum and
+maximum in the language of fuzzy answer set optimization programming to allow
+minimization or maximization of some desired criteria under fuzzy environments.
+We show the application of the proposed logical fuzzy optimization framework
+under the fuzzy answer set optimization programming to the fuzzy water
+allocation optimization problem.

@@ -1,0 +1,7 @@
+标题: Bayesian Optimization for Fine-Tuning an AI Solver: Application to Preventive Maintenance Scheduling Problems
+
+作者: Zhang, Liwen, Chetouan, Youness, Maqrot, Sara, Ducharlet, Kevin, Saidi, Houssem
+
+发表日期: 2026-01-01
+
+摘要: Scheduling in industrial contexts is complex due to numerous constraints and the large scale of problems that must be addressed. Solvers are frequently used to automate scheduling missions, which reduces the workload on decision-makers. For industrial applications, decision-makers often seek near-optimal solutions within a reasonable computation time, which makes meta-heuristic-based solvers the most suitable options. However, the performance of meta-heuristic algorithms in time and quality is significantly impacted by their parameter settings. In this work, we propose a Bayesian optimization approach to fine-tune the meta-heuristic parameters of Timefold, a powerful and open-source AI solver. Our study begins with an in-depth analysis of Timefold’s optimization process, highlighting the primary components and key parameters of its embedded meta-heuristic algorithms. The proposed parameter tuning methodology is applied to a real-world use case of Preventive Maintenance Scheduling Problem. The numerical results demonstrate that our method enhances the optimization performance of Timefold through a comparative study.

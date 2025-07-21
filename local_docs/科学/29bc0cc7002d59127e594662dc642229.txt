@@ -1,0 +1,7 @@
+标题: Introduction to 2D and 3D Photonics
+
+作者: Yi, Yasha
+
+发表日期: 2026-01-01
+
+摘要: Photonic Integrated Circuits (PICs) represent a significant advancement in the field of photonics, analogous to the role that electronic integrated circuits (ICs) play in electronics. PICs integrate multiple photonic functions on a single chip, utilizing light (photons) instead of electrons to process and transmit information. This capability allows for the development of devices that are faster, more efficient, and capable of handling larger amounts of data than their electronic counterparts.

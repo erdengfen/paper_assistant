@@ -1,0 +1,5 @@
+标题: Preparation of an Academic Clinical Trial.
+
+作者: Ana Cristina Ramalhinho, Miguel Castelo-Branco
+
+摘要: Clinical trials are research studies performed in humans to evaluate the efficacy and safety of an intervention. They are the primary method by which researchers discover if a new treatment (drug, diet, medical device) is safe and effective in humans. DNA vaccines are considered, by definition, advanced therapy medicinal products (ATMPs). ATMPs are medicines for human use that are based on genes, tissues, or cells. They offer groundbreaking new opportunities for the treatment of disease and injury. Clinical trials using ATMPs are subject to specific regulatory requirements. This chapter will describe the most important steps when planning a clinical trial with DNA vaccines, such as regulatory and submission requirements, designing of a successful clinical trial protocol, stakeholders' responsibilities, and feasibility assessment.

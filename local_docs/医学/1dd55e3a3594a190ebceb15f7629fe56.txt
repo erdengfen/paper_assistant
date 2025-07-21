@@ -1,0 +1,5 @@
+标题: An introduction to clinical trial design.
+
+作者: A Schultz, B R Saville, J A Marsh, T L Snelling
+
+摘要: Clinicians and other decision makers in healthcare use results from clinical trials to inform practice. Interpretation of clinical trial results can be challenging, as weaknesses in trial design, data collection, analysis or reporting, can compromise the usefulness of results. A good working knowledge of clinical trial design is essential to expertly interpret and determine the validity and generalizability of the results. This manuscript will give a brief overview of clinical trial design including the strengths and limitations of various approaches. The focus will be on confirmatory clinical trials.

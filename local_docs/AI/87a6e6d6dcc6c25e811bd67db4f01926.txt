@@ -1,0 +1,18 @@
+标题: The ADAIO System at the BEA-2023 Shared Task on Generating AI Teacher
+  Responses in Educational Dialogues
+
+作者: Adaeze Adigwe, Zheng Yuan
+
+发表日期: 2023-06-08
+
+摘要: This paper presents the ADAIO team's system entry in the Building Educational
+Applications (BEA) 2023 Shared Task on Generating AI Teacher Responses in
+Educational Dialogues. The task aims to assess the performance of
+state-of-the-art generative models as AI teachers in producing suitable
+responses within a student-teacher dialogue. Our system comprises evaluating
+various baseline models using OpenAI GPT-3 and designing diverse prompts to
+prompt the OpenAI models for teacher response generation. After the challenge,
+our system achieved second place by employing a few-shot prompt-based approach
+with the OpenAI text-davinci-003 model. The results highlight the few-shot
+learning capabilities of large-language models, particularly OpenAI's GPT-3, in
+the role of AI teachers.

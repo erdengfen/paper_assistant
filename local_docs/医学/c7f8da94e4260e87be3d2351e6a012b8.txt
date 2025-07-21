@@ -1,0 +1,5 @@
+标题: Tumor cell metabolism: cancer's Achilles' heel.
+
+作者: Guido Kroemer, Jacques Pouyssegur
+
+摘要: The essential hallmarks of cancer are intertwined with an altered cancer cell-intrinsic metabolism, either as a consequence or as a cause. As an example, the resistance of cancer mitochondria against apoptosis-associated permeabilization and the altered contribution of these organelles to metabolism are closely related. Similarly, the constitutive activation of signaling cascades that stimulate cell growth has a profound impact on anabolic metabolism. Here, we review the peculiarities of tumor cell metabolism that might be taken advantage of for cancer treatment. Specifically, we discuss the alterations in signal transduction pathways and/or enzymatic machineries that account for metabolic reprogramming of transformed cells.

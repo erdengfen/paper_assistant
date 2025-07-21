@@ -1,0 +1,7 @@
+标题: Deep Neural Networks - A Brief History
+
+作者: Krzysztof J. Cios
+
+发表日期: 2017-01-19
+
+摘要: Introduction to deep neural networks and their history.

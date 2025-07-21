@@ -1,0 +1,21 @@
+标题: Monitoring 
+              
+                
+              
+              $$CO_2$$
+              
+                
+                  C
+                  
+                    O
+                    2
+                  
+                
+              
+             in Seismic Data Using Neural Network
+
+作者: Gondyul, Elena, Lisitsa, Vadim, Vishnevsky, Dmitry
+
+发表日期: 2026-01-01
+
+摘要: Accurate monitoring of $$CO_2$$ C O 2 migration in subsurface reservoirs is critical for understanding the behavior of injected greenhouse gases. This study proposes a neural network-based approach to improve the accuracy of seismograms used in time-lapse seismic monitoring. The method consists of two stages: first, a neural network predicts changes in seismograms corresponding to velocity model variations between consecutive monitoring steps, allowing for the approximation of spatio-temporal dependencies and facilitating wavefield extrapolation. The seismograms at this stage are generated using a coarse computational grid to reduce computational costs. In the second stage, a neural network is employed to mitigate numerical dispersion in the predicted seismogram differences generated via classical modeling under the assumption of an unchanged velocity model. The trained network is then applied to all seismograms obtained in the first stage. This approach enables a more precise estimation of $$CO_2$$ C O 2 migration patterns, providing valuable insights into subsurface dynamics. The proposed approach significantly accelerates seismic modeling and its application to monitoring greenhouse gases in reservoir rocks.

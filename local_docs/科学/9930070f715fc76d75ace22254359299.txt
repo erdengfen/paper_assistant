@@ -1,0 +1,7 @@
+标题: Web of Things Based Advanced Smart Parking Management Solution
+
+作者: Ipsaro Palesi, Luciano Alessandro, Naldi, Matteo, Nesi, Paolo
+
+发表日期: 2026-01-01
+
+摘要: Urbanization and increasing vehicle ownership have exacerbated parking challenges in cities worldwide, necessitating innovative solutions for efficient space utilization. Smart Parking Management Systems, integrating the Internet of Things (IoT), Web of Things (WoT), machine learning, and digital twins, offer a data-driven approach to optimizing parking infrastructure. This paper presents an advanced Smart Parking Management System developed using Snap4City, an open-source framework designed for real-time urban mobility monitoring. The proposed solution enables real-time parking occupancy tracking, predictive analytics, and automated enforcement, improving overall efficiency, sustainability, and user experience. Through dynamic pricing models, integration with Mobility-as-a-Service (MaaS), and AI-driven forecasting, the system enhances urban mobility while reducing traffic congestion and environmental impact. The effectiveness of the solution is validated through simulations and implementation in Florence, demonstrating its capability to streamline parking operations, support municipal policies, and improve user accessibility. The platform has been implemented using data from Florence and is built on the Snap4City Open Source platform for CN MOST, national center on sustainable mobility.

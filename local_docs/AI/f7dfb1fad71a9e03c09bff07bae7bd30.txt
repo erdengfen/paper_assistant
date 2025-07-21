@@ -1,0 +1,11 @@
+标题: Lecture Notes: Neural Network Architectures
+
+作者: Evelyn Herberg
+
+发表日期: 2023-04-11
+
+摘要: These lecture notes provide an overview of Neural Network architectures from
+a mathematical point of view. Especially, Machine Learning with Neural Networks
+is seen as an optimization problem. Covered are an introduction to Neural
+Networks and the following architectures: Feedforward Neural Network,
+Convolutional Neural Network, ResNet, and Recurrent Neural Network.

@@ -1,0 +1,7 @@
+标题: Game Theory Approaches for Pokémon AI Battle Simulation
+
+作者: Dung, Nguyen, Hien, Dao The, Khoa, Bui Vu, Kiet, Pham Tuan, Logofătu, Doina
+
+发表日期: 2026-01-01
+
+摘要: This research is in the competition named “VGC AI Competition.”. The competition consists of two Pokémon trainers, each with a team of three Pokémon. Trainers select one Pokémon, respectively, to battle with another trainer’s Pokémon. In this competition, they provide us a game theory framework such as Nash equilibria that describes a strategy profile of all players in a game such that each player pursues a strategy that is the best response to the strategy of the opponents and that no player benefits from changing their strategies. This research also analyzes the algorithm on the AI agent to play against the other people or AI agent.

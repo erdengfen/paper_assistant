@@ -1,0 +1,11 @@
+标题: Stochastic Polynomial Optimization
+
+作者: Jiawang Nie, Liu Yang, Suhan Zhong
+
+发表日期: 2019-08-15
+
+摘要: This paper studies stochastic optimization problems with polynomials. We
+propose an optimization model with sample averages and perturbations. The
+Lasserre type Moment-SOS relaxations are used to solve the sample average
+optimization. Properties of the optimization and its relaxations are studied.
+Numerical experiments are presented.

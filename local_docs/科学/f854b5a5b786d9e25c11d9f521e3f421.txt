@@ -1,0 +1,7 @@
+标题: Mathematical Models and Algorithms for Processing Retinal OCTA Images
+
+作者: Longaroni, Martina, Rinelli, Lucrezia, Travaglini, Arianna, Vinti, Gianluca
+
+发表日期: 2026-01-01
+
+摘要: This study investigates the advanced reconstruction capabilities of sampling Kantorovich (SK) operators, emphasizing their remarkable approximation properties and their application to Optical Coherence Tomography Angiography (OCTA) images from both healthy and diabetic patients. By exploiting these mathematical tools, significant enhancements in image reconstruction quality are achieved. Initially, retinal vascular network connectivity is evaluated using an algorithm that computes connected components, comparing non-reconstructed and SK-reconstructed images to demonstrate the advantages of SK-reconstruction. Moreover, SK-reconstructed superficial capillary plexus (SCP) images are analyzed to investigate the foveal avascular zone (FAZ) in both patient groups. The SK algorithm successfully identifies critical morphological differences in the FAZ between healthy and diabetic patients, highlighting the efficacy of SK operators in improving image reconstruction for diagnostic applications.

@@ -1,0 +1,7 @@
+标题: Evaluating Design Strategies for AI Virtual Teaching Assistants and Immersive Learning Scaffolding in Programmed Teaching Games
+
+作者: Gu, Jian-Hua, Chen, Sheng-Chih, Hui, Lin, Thaipisutikul, Tipajin, Hung, Hui-Shiuan, Du, Heng, Yeh, Chih-Chi
+
+发表日期: 2026-01-01
+
+摘要: This study designed an immersive learning game for JavaScript programming, incorporating ChatGPT-based AI as a virtual assistant using scaffolding theory. The assistant provides interactive guidance, helping learners solve problems step by step. The study involved 41 non-IT undergraduate and graduate students to evaluate the model’s effects on learning performance, motivation, flow state, anxiety, and emotional state. Results showed significant improvements in learning outcomes, motivation, and flow state. However, improvements are needed in assistant accuracy, interface clarity, and extended learning support.

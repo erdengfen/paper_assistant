@@ -1,0 +1,7 @@
+标题: Comparing Emerging Technologies in Image Classification: From Quantum to Kolmogorov
+
+作者: Napoli, Fabio, Castaldo, Mariarosaria, Marrone, Stefano, Campanile, Lelio
+
+发表日期: 2026-01-01
+
+摘要: The rapid evolution of Artificial Intelligence has led to significant advancements in image classification, with novel approaches emerging beyond traditional deep learning paradigms. This paper presents a comparative analysis of three distinct methodologies for image classification: classical Convolutional Neural Networks (CNNs), Kolmogorov-Arnold Networks (KANs) and KAN-based CNNs and Quantum Machine Learning using Quantum Convolutional Neural Networks. The study evaluates these models on the Labeled Faces in the Wild dataset, implementing the different classifiers with existing, well-assessed technologies. Given the fundamental differences in computational paradigms, performance assessment extends beyond traditional accuracy metrics to include computational efficiency, interpretability, and, for quantum models, gate depth and noise. As a summary of the results, the proposed Quantum Convolutional Neural Network (QCNN) model achieves an accuracy of 75% on the target images classification task, indicating promising performance within current quantum computational limits. All the experiments strongly suggest that Convolutional Kolmogorov-Arnold Networks (CKANs) exhibit increased accuracy as image resolution decreases, QCNN performance meaningfully changes in relation to noise level, while CNNs still keeping strong discriminative capabilities.

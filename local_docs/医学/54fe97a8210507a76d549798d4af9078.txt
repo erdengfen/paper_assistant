@@ -1,0 +1,5 @@
+标题: Clinical trial designs--made to order.
+
+作者: J S Andersen
+
+摘要: At times, clinical trial design presents difficult problems for the consulting statistician. The nature of the disease under study or the inadequacies of standard methodology often suggest alternative strategies for the development of useful clinical trial designs. This paper examines two case of novel clinical trial designs that are "made-to-order" for the problem at hand. Both address disease-specific issues. The first case considers the use of adaptive allocation of treatments to patients in a trial in major depressive disorder. The second case reviews the design of a novel efficacy parameter in advanced pancreatic cancer.

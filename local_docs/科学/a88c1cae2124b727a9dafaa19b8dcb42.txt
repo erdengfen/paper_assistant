@@ -1,0 +1,7 @@
+标题: Research on the Evaluation of Wireless Quality
+
+作者: Lin, Pingping, Li, Yang
+
+发表日期: 2026-01-01
+
+摘要: This paper delves into the exploration of machine learning's role in evaluating and enhancing the quality of wireless multimedia content. It introduces algorithms and frameworks that autonomously adapt quality parameters by considering user preferences and network conditions, thereby substantially improving the overall end-user experience. By leveraging machine learning techniques, these algorithms can intelligently analyze and optimize multimedia con-tent in real-time, ensuring optimal quality delivery based on individual user preferences and the prevailing network conditions. The incorporation of machine learning into the assessment and enhancement of wireless multimedia content quality has significant potential to enhance user satisfaction and optimize multi-media streaming experiences.

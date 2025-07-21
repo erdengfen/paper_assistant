@@ -1,0 +1,9 @@
+标题: OpenAI Cribbed Our Tax Example, But Can GPT-4 Really Do Tax?
+
+作者: Andrew Blair-Stanek, Nils Holzenberger, Benjamin Van Durme
+
+发表日期: 2023-09-15
+
+摘要: The authors explain where OpenAI got the tax law example in its livestream
+demonstration of GPT-4, why GPT-4 got the wrong answer, and how it fails to
+reliably calculate taxes.

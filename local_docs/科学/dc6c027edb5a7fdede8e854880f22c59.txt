@@ -1,0 +1,7 @@
+标题: Using Smart Equipment to Collect Data Required in Developing Sustainable Urban Mobility Plans
+
+作者: Rusca, Florin, Rosca, Eugen, Rusca, Aura, Ilie, Anamaria, Dinu, Oana
+
+发表日期: 2026-01-01
+
+摘要: Sustainable Urban Mobility Plans (SUMPs) play a crucial role in the development strategies of urban transport infrastructures. Their implementation requires the collection of traffic data from the city’s main streets. However, the high costs associated with this process often lead to a reduction in both the number of monitoring points and the duration of data collection. To enhance data acquisition efficiency, smart equipment was developed to record vehicle counts, classify vehicle types, and process route information. The authors of this study contributed to the development of this equipment. The necessary types of sensors, the local structure of the equipment, and its computational capacity were analyzed. Additionally, the city’s topological structure was identified to determine the optimal placement of the smart equipment. The data obtained through its implementation were used to create a transport model for a medium-sized city. The modeled values were compared with real traffic data to validate the model. The technology and results confirmed the utility of such smart devices in traffic studies and the development of Sustainable Urban Mobility Plans.

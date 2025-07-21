@@ -1,0 +1,7 @@
+标题: Enhancing Medical Students’ Higher-Order Thinking Skills: A Brain-Based Learning Approach Integrated with Educational Technology
+
+作者: Tan, Hao Xuan, Sen, Arkendu
+
+发表日期: 2026-01-01
+
+摘要: Advancements in technology and cognitive science have transformed educational strategies, yet the integration of brain-based learning (BBL) with technology-driven instruction remains underexplored in medical education. This study develops a tripartite theoretical framework that systematically aligns BBL, higher-order thinking skills (HOTS), and instructional technology models to operationalise key BBL components within metacognitive processes. This research synthesises empirical findings and theoretical constructs to create structured learning interventions. The study employs a design and development research methodology, incorporating literature reviews, curriculum analysis, and iterative expert validation to ensure the feasibility and effectiveness of proposed interventions. Multiple educational technologies, including virtual reality, artificial intelligence-generated clinical vignettes, and multimedia tools, are integrated to support the learning processes. The findings highlight the potential of combining BBL with digital learning strategies to systematically enhance HOTS, ultimately improving medical students’ HOTS. This study contributes to medical education by providing a structured approach for developing instructional materials that foster HOTS among medical students.

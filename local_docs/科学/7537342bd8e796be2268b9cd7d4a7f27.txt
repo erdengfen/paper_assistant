@@ -1,0 +1,7 @@
+标题: Clustering and Association Rules Mining for Coral Reef Fish Distribution: A Data-Driven Approach in the Mediterranean Sea
+
+作者: Ben Slima, Ilef, Borgi, Amel, Sellem, Feriel
+
+发表日期: 2026-01-01
+
+摘要: Marine biodiversity is a key indicator of ecological stability and resource availability. Species Distribution Models (SDMs) predict species distribution based on environmental variables. This paper focuses on SDMs in the Mediterranean Sea, emphasizing Coral Reef fish species essential for reef ecosystem health. The objective is to propose a data mining approach that analyzes the environmental factors influencing the distribution of Coral Reef fish species using a specific marine dataset. In contrast to recent studies that predominantly rely on supervised predictive models, we apply in this work unsupervised machine learning techniques to uncover hidden relationships between the features describing species biomass and thus indicating the level of biodiversity. By combining clustering with association rule mining, we uncover species profile groups, providing detailed insights into biodiversity dynamics and Coral Reef fish distribution in the Mediterranean marine ecosystem.

@@ -1,0 +1,5 @@
+标题: The Role of TDP-43 in Neurodegenerative Disease.
+
+作者: Yan-Zhe Liao, Jing Ma, Jie-Zhi Dou
+
+摘要: In recent years, more and more neurodegenerative diseases, such as ALS, FTLD and AD, have been found to share a common pathological feature, which is the depletion of TDP-43 in the nucleus and the accumulation of TDP-43 in the cytoplasm through hyperphosphorylation, ubiquitination and cleavage. Therefore, this kind of neurodegenerative disease is also called TDP-43 proteinopathy. This suggests that TDP-43 plays a role in the pathogenesis of disease. Current studies show that the pathophysiological mechanism of TDP-43 in neurodegeneration is very complex. In this review, we describe the structure of TDP-43, its main physiological functions, the possible pathogenesis and how TDP-43 provides a new pathway to treat neurodegenerative diseases.

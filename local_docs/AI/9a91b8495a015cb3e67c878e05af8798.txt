@@ -1,0 +1,26 @@
+标题: Augmenting data-driven models for energy systems through feature
+  engineering: A Python framework for feature engineering
+
+作者: Sandra Wilfling
+
+发表日期: 2023-01-04
+
+摘要: Data-driven modeling is an approach in energy systems modeling that has been
+gaining popularity. In data-driven modeling, machine learning methods such as
+linear regression, neural networks or decision-tree based methods are being
+applied. While these methods do not require domain knowledge, they are
+sensitive to data quality. Therefore, improving data quality in a dataset is
+beneficial for creating machine learning-based models. The improvement of data
+quality can be implemented through preprocessing methods. A selected type of
+preprocessing is feature engineering, which focuses on evaluating and improving
+the quality of certain features inside the dataset. Feature engineering methods
+include methods such as feature creation, feature expansion, or feature
+selection. In this work, a Python framework containing different feature
+engineering methods is presented. This framework contains different methods for
+feature creation, expansion and selection; in addition, methods for
+transforming or filtering data are implemented. The implementation of the
+framework is based on the Python library scikit-learn. The framework is
+demonstrated on a case study of a use case from energy demand prediction. A
+data-driven model is created including selected feature engineering methods.
+The results show an improvement in prediction accuracy through the engineered
+features.

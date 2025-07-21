@@ -1,0 +1,7 @@
+标题: Modeling and Simulation Tools
+
+作者: Yi, Yasha
+
+发表日期: 2026-01-01
+
+摘要: The development of photonic integrated circuits (PICs) has driven the need for specialized design methodologies and tools that go beyond traditional Electronic Design Automation (EDA) developed for electronic circuits. EDA for photonics involves adapting these conventional tools to address the unique characteristics of photonic components, such as waveguides, modulators, and lasers, which rely on light manipulation rather than electric current. Traditional EDA tools, which focus on electronic parameters like voltage, current, and resistance, must be modified to account for photonic-specific factors like wavelength, phase, polarization, and optical loss. This requires new modeling techniques and simulation tools capable of handling both optical and electronic behaviors, as well as co-design methodologies that can simulate the interaction between photonic and electronic elements within hybrid integrated circuits.

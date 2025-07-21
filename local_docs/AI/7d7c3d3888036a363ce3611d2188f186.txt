@@ -1,0 +1,22 @@
+标题: Confidence-Guided Semi-supervised Learning in Land Cover Classification
+
+作者: Wanli Ma, Oktay Karakus, Paul L. Rosin
+
+发表日期: 2023-05-17
+
+摘要: Semi-supervised learning has been well developed to help reduce the cost of
+manual labelling by exploiting a large quantity of unlabelled data. Especially
+in the application of land cover classification, pixel-level manual labelling
+in large-scale imagery is labour-intensive, time-consuming and expensive.
+However, existing semi-supervised learning methods pay limited attention to the
+quality of pseudo-labels during training even though the quality of training
+data is one of the critical factors determining network performance. In order
+to fill this gap, we develop a confidence-guided semi-supervised learning
+(CGSSL) approach to make use of high-confidence pseudo labels and reduce the
+negative effect of low-confidence ones for land cover classification.
+Meanwhile, the proposed semi-supervised learning approach uses multiple network
+architectures to increase the diversity of pseudo labels. The proposed
+semi-supervised learning approach significantly improves the performance of
+land cover classification compared to the classic semi-supervised learning
+methods and even outperforms fully supervised learning with a complete set of
+labelled imagery of the benchmark Potsdam land cover dataset.

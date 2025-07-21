@@ -1,0 +1,7 @@
+标题: Gen AI-Assisted Management Learning: A Perspective on the Alignment of Intrinsic and Extrinsic Motivation
+
+作者: Lee, Kuo-Wei, Tseng, Yao-Fen
+
+发表日期: 2026-01-01
+
+摘要: With the advancement of artificial intelligence, Generative Artificial Intelligence (Gen AI), such as ChatGPT, has emerged as a valuable tool for enhancing learning effectiveness, particularly in management education. However, research exploring how learner motivation influences the use of Gen AI in management education remains limited. Grounded in Self-Determination Theory (SDT), this study explores how Epistemic Curiosity (EC, intrinsic motivation) and Teacher Support (TS, extrinsic motivation) shape student engagement with Gen AI. Four propositions based on varying EC and TS levels are proposed. The study contributes insights into optimizing Gen AI-driven educational tools by aligning intrinsic and extrinsic motivations.

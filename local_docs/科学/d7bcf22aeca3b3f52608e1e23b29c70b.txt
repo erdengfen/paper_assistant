@@ -1,0 +1,7 @@
+标题: ChatGPT-Assisted Escape Room: Preservice Teacher Preparation for Generative Artificial Intelligence Enhanced Instructional Design
+
+作者: Istenič, Andreja, Frania, Monika, Turk, Žiga
+
+发表日期: 2026-01-01
+
+摘要: Escape rooms are used in didactic settings, forming learning environments from an angle of learning connected to authentic context, authentic activity and authentic students’ interactions. Didactic setting consisting of learning objectives, instructional/didactic strategies, and learning methods reflects game design. Learning objectives are transformed into game design, the instructional/didactic strategy is transformed in game strategy and learning methods are transformed into game mechanisms (challenges and puzzles). The study examined preservice teachers’ design of a digital escape room for early STEM learning. ChatGPT was utilized for lesson planning and escape room scenario and design. The digital escape room design was a part of the educational technology course for classroom teachers in modernising pedagogical study programmes in 2024/25. Students’ evaluations of the escape room instructional design supported by generative artificial intelligence are presented.

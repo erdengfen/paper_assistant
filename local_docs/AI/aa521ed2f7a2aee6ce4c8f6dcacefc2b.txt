@@ -1,0 +1,15 @@
+标题: Loss Functions for Finite Sets
+
+作者: Jiawang Nie, Suhan Zhong
+
+发表日期: 2021-12-11
+
+摘要: This paper studies loss functions for finite sets. For a given finite set
+$S$, we give sum-of-square type loss functions of minimum degree. When $S$ is
+the vertex set of a standard simplex, we show such loss functions have no
+spurious minimizers (i.e., every local minimizer is a global one). Up to
+transformations, we give similar loss functions without spurious minimizers for
+general finite sets. When $S$ is approximately given by a sample set $T$, we
+show how to get loss functions by solving a quadratic optimization problem.
+Numerical experiments and applications are given to show the efficiency of
+these loss functions.

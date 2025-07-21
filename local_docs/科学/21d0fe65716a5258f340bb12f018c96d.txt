@@ -1,0 +1,7 @@
+标题: Two Families of W-Methods: Analysis and Application on Battery Models
+
+作者: Conte, Dajana, Pagano, Giovanni
+
+发表日期: 2026-01-01
+
+摘要: This paper focuses on the efficient numerical solution of stiff initial value problems arising from the spatial discretization of Partial Differential Equations (PDEs). In particular, this work shows an efficient implementation of two families of linearly implicit numerical methods recently introduced in the scientific literature: the TASE-W methods and the singly TASE-Runge-Kutta methods. These methods are derived exploiting the so-called TASE (Time-Accurate and highly Stable Explicit) operators, and are particular cases of W-methods. We deeply analyze the properties of consistency, stability, and computational cost of TASE-W and singly TASE-Runge-Kutta methods, employing them for the solution of a system of two coupled PDEs for the description of the charge/discharge processes in electric batteries.

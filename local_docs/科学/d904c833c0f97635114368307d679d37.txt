@@ -1,0 +1,7 @@
+标题: IEEE802.11ax Multi-frame Transmission Resource Allocation Method for Fault Tolerance
+
+作者: Yang, Guangchang, Shao, Sujie, Guo, Shaoyong, Qiu, Xuesong, Xu, Siya
+
+发表日期: 2026-01-01
+
+摘要: IEEE 802.11ax can provide effective support for network access communication in dense scenarios, but it still has the problem of improper allocation of access resources under high terminal concurrency, especially when a node is faulty. This paper first proposes a multi-frame transmission architecture for up-link scheduling access to achieve one-time scheduling and multi-frame transmission Then, based on this architecture, considering the data volume and delay threshold, and taking the total throughput of the system as the optimization goal, the 802.11ax-based time-domain and frequency-domain joint resource scheduling method (TF-ISM) is designed to optimize the resource allocation from two dimensions: time-domain and frequency-domain. Finally, the power optimization algorithm based on improved particle swarm (POA-IPSO) is designed to ad-dress interference caused by increased single-node access terminals, and then combined with MU-MIMO technology, a resource optimization algorithm for failure tolerance (FT-ROA) is proposed. Simulation results show that the pro-posed method can improve the total throughput and resource utilization of the system, and can effectively improve the system performance. In the face of node failure, it can still achieve better resource allocation effect and faster convergence.

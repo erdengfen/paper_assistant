@@ -1,0 +1,14 @@
+标题: Counterexample-Guided Repair of Reinforcement Learning Systems Using
+  Safety Critics
+
+作者: David Boetius, Stefan Leue
+
+发表日期: 2024-05-24
+
+摘要: Naively trained Deep Reinforcement Learning agents may fail to satisfy vital
+safety constraints. To avoid costly retraining, we may desire to repair a
+previously trained reinforcement learning agent to obviate unsafe behaviour. We
+devise a counterexample-guided repair algorithm for repairing reinforcement
+learning systems leveraging safety critics. The algorithm jointly repairs a
+reinforcement learning agent and a safety critic using gradient-based
+constrained optimisation.

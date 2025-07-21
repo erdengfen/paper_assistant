@@ -1,0 +1,19 @@
+标题: FusionAccel: A General Re-configurable Deep Learning Inference
+  Accelerator on FPGA for Convolutional Neural Networks
+
+作者: Shi Shi
+
+发表日期: 2019-07-04
+
+摘要: The deep learning accelerator is one of the methods to accelerate deep
+learning network computations, which is mainly based on convolutional neural
+network acceleration. To address the fact that concurrent convolutional neural
+network accelerators are not solely open-source and the exclusiveness of
+platforms, FusionAccel, a scalable convolutional neural network accelerator
+hardware architecture with supporting software is proposed. It can adapt to
+different network structures and can be reconstructed before compilation and
+reconfigured at runtime. This paper realizes this RTL convolutional neural
+network accelerator design and functional verifications on a Xilinx Spartan-6
+FPGA. The result is identical to that of Caffe-CPU. Since the entire project is
+based on RTL, it can be migrated to ASIC after replacing some FPGA-specific
+IPs.

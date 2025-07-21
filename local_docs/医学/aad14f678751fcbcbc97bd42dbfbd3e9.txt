@@ -1,0 +1,5 @@
+标题: Mapping cancer origins.
+
+作者: Richard J Gilbertson
+
+摘要: Cancer comprises a bewildering assortment of diseases that kill 7.5 million people each year. Poor understanding of cancer's diversity currently thwarts our goal of a cure for every patient, but recent integration of genomic and stem cell technologies promises a route through this impasse.

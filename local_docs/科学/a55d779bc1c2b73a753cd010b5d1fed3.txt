@@ -1,0 +1,7 @@
+标题: A machine learning based regulatory risk index for cryptocurrencies
+
+作者: Ni, Xinwen, Xie, Taojun, Härdle, Wolfgang Karl, Zuo, Xiaorui
+
+发表日期: 2025-09-01
+
+摘要: Cryptocurrency markets are highly sensitive to regulatory changes, often experiencing sharp price fluctuations in response to new policies and government interventions. Despite this, existing market indices fail to adequately capture the risks associated with regulatory uncertainty. In this paper, we introduce the Cryptocurrency Regulatory Risk Index (CRRIX), a machine learning-based index designed to quantify the impact of regulatory developments on cryptocurrency markets. Our methodology employs Latent Dirichlet Allocation (LDA) to classify policy-related news articles from major cryptocurrency news platforms, providing an objective measure of regulatory risk. We find that the CRRIX exhibits strong synchronicity with VCRIX, a cryptocurrency volatility index, suggesting that regulatory uncertainty plays a significant role in driving market fluctuations. Our results indicate that regulatory risk is a leading factor in market volatility, with major policy shifts triggering significant market movements. The proposed regulatory risk index provides a novel approach to quantifying policy uncertainty in the cryptocurrency sector, offering valuable insights for market participants navigating this rapidly changing environment.

@@ -1,0 +1,22 @@
+标题: GPT Store Mining and Analysis
+
+作者: Dongxun Su, Yanjie Zhao, Xinyi Hou, Shenao Wang, Haoyu Wang
+
+发表日期: 2024-05-16
+
+摘要: As a pivotal extension of the renowned ChatGPT, the GPT Store serves as a
+dynamic marketplace for various Generative Pre-trained Transformer (GPT)
+models, shaping the frontier of conversational AI. This paper presents an
+in-depth measurement study of the GPT Store, with a focus on the categorization
+of GPTs by topic, factors influencing GPT popularity, and the potential
+security risks. Our investigation starts with assessing the categorization of
+GPTs in the GPT Store, analyzing how they are organized by topics, and
+evaluating the effectiveness of the classification system. We then examine the
+factors that affect the popularity of specific GPTs, looking into user
+preferences, algorithmic influences, and market trends. Finally, the study
+delves into the security risks of the GPT Store, identifying potential threats
+and evaluating the robustness of existing security measures. This study offers
+a detailed overview of the GPT Store's current state, shedding light on its
+operational dynamics and user interaction patterns. Our findings aim to enhance
+understanding of the GPT ecosystem, providing valuable insights for future
+research, development, and policy-making in generative AI.

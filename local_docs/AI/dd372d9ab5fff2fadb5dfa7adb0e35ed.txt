@@ -1,0 +1,10 @@
+标题: Are Deep Neural Networks "Robust"?
+
+作者: Peter Meer
+
+发表日期: 2020-08-25
+
+摘要: Separating outliers from inliers is the definition of robustness in computer
+vision. This essay delineates how deep neural networks are different than
+typical robust estimators. Deep neural networks not robust by this traditional
+definition.

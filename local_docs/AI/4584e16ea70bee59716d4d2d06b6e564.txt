@@ -1,0 +1,24 @@
+标题: The Number of Steps Needed for Nonconvex Optimization of a Deep Learning
+  Optimizer is a Rational Function of Batch Size
+
+作者: Hideaki Iiduka
+
+发表日期: 2021-08-26
+
+摘要: Recently, convergence as well as convergence rate analyses of deep learning
+optimizers for nonconvex optimization have been widely studied. Meanwhile,
+numerical evaluations for the optimizers have precisely clarified the
+relationship between batch size and the number of steps needed for training
+deep neural networks. The main contribution of this paper is to show
+theoretically that the number of steps needed for nonconvex optimization of
+each of the optimizers can be expressed as a rational function of batch size.
+Having these rational functions leads to two particularly important facts,
+which were validated numerically in previous studies. The first fact is that
+there exists an optimal batch size such that the number of steps needed for
+nonconvex optimization is minimized. This implies that using larger batch sizes
+than the optimal batch size does not decrease the number of steps needed for
+nonconvex optimization. The second fact is that the optimal batch size depends
+on the optimizer. In particular, it is shown theoretically that momentum and
+Adam-type optimizers can exploit larger optimal batches and further reduce the
+minimum number of steps needed for nonconvex optimization than can the
+stochastic gradient descent optimizer.

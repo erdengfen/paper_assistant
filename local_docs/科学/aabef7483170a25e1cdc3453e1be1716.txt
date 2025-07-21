@@ -1,0 +1,7 @@
+标题: A Family of Representations of the Poincaré Group
+
+作者: Beyer, Reinhard Horst
+
+发表日期: 2026-01-01
+
+摘要: The focus of this chapter is the construction of a family of representations $${\hat{\hat{U}}}_{a}$$ U ^ ^ a , $$a \geqslant 0$$ a ⩾ 0 , of the Poincaré group in 3 steps. For every $$a \geqslant 0$$ a ⩾ 0 , in the first step, we construct a strongly continuous unitary representation of the restricted Lorentz group, the connected component of the Lorentz group that contains the unit element, and analyze the generators of one-parameter subgroups associated with rotations and Lorentz boosts.

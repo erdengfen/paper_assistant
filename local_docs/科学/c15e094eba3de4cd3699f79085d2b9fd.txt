@@ -1,0 +1,7 @@
+标题: Digital Twin as a Tool for Participatory Cultural Heritage Regeneration: The Case of Pavia Historical Urban Center in Italy
+
+作者: Ni, Minqing, Cattaneo, Tiziano, Ji, Lyu
+
+发表日期: 2026-01-01
+
+摘要: This paper presents ongoing research developed within the project entitled Digital Modelling to Support the Design of Safe, Sustainable and Resilient Environments of the Department of Excellence 2023–2027 in the Department of Civil Engineering and Architecture of the University of Pavia. The main aim of this paper is to develop an investigation on the application of digital twins in historical cities to implementing a specific application scenario for the city of Pavia. The adopted method is based on an exploratory qualitative approach that is not only interpretative, but above all proactive and projective. The results obtained highlight the possibility of applying digital twins as an important tool that can combine adaptive regeneration design in medium-small sized historical urban centers such as the city of Pavia, balancing the needs of heritage protection with those of sustainable transformation, participation and inclusiveness.

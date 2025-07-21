@@ -1,0 +1,30 @@
+标题: Efficient Training Approaches for Performance Anomaly Detection Models
+  in Edge Computing Environments
+
+作者: Duneesha Fernando, Maria A. Rodriguez, Patricia Arroba, Leila Ismail, Rajkumar Buyya
+
+发表日期: 2024-08-23
+
+摘要: Microservice architectures are increasingly used to modularize IoT
+applications and deploy them in distributed and heterogeneous edge computing
+environments. Over time, these microservice-based IoT applications are
+susceptible to performance anomalies caused by resource hogging (e.g., CPU or
+memory), resource contention, etc., which can negatively impact their Quality
+of Service and violate their Service Level Agreements. Existing research on
+performance anomaly detection for edge computing environments focuses on model
+training approaches that either achieve high accuracy at the expense of a
+time-consuming and resource-intensive training process or prioritize training
+efficiency at the cost of lower accuracy. To address this gap, while
+considering the resource constraints and the large number of devices in modern
+edge platforms, we propose two clustering-based model training approaches : (1)
+intra-cluster parameter transfer learning-based model training (ICPTL) and (2)
+cluster-level model training (CM). These approaches aim to find a trade-off
+between the training efficiency of anomaly detection models and their accuracy.
+We compared the models trained under ICPTL and CM to models trained for
+specific devices (most accurate, least efficient) and a single general model
+trained for all devices (least accurate, most efficient). Our findings show
+that the model accuracy of ICPTL is comparable to that of the model per device
+approach while requiring only 40% of the training time. In addition, CM further
+improves training efficiency by requiring 23% less training time and reducing
+the number of trained models by approximately 66% compared to ICPTL, yet
+achieving a higher accuracy than a single general model.

@@ -1,0 +1,7 @@
+标题: Leveled Homomorphic Encryption over Composite Groups
+
+作者: Mahdavi, Mahdi, Meamari, Ehsan, Beni, Emad Heydari, Sheikhi, Maryam
+
+发表日期: 2026-01-01
+
+摘要: Homomorphic encryption is a powerful tool that enables computation on encrypted data without requiring decryption. While many Fully Homomorphic Encryption schemes, supporting arbitrary computations on encrypted data, have been developed using lattice-based and AGCD-based approaches, progress in composite groups has been limited to Partial Homomorphic Encryption schemes, which only support either addition or multiplication. This paper introduces the first $$\ell $$ ℓ -leveled homomorphic encryption schemes over composite groups, based on factoring problem, that achieve both multiplicative and additive homomorphic properties. Our novel design eliminates the need for relinearization operation, which is common in LWE-based HE schemes, and removes the requirement for the circular security assumption. For applications where the traffic must be indistinguishable as encrypted, a scrambled scheme is designed using a labeling technique. While the initial schemes offer an expanded message space, the introduction of the double-sized Message technique enables the encryption of messages up to twice the size without increasing the ciphertext size. Implementation results show that our schemes significantly outperform existing solutions, particularly in multiplication operations, achieving speeds up to 1000 times faster than well-known schemes such as BFV, BGV, CKKS, and TFHE.

@@ -1,0 +1,7 @@
+标题: Banking sector size and economic performance in the Euro area countries
+
+作者: Wierzbowska, Agata
+
+发表日期: 2025-08-01
+
+摘要: This study analyses the impact of banking sector size on economic growth in euro area countries. We use eurozone countries’ data regarding the amount of bank lending to the private sector relative to the GDP and employ macroeconomic data in a panel analysis to examine how the size of lending affected growth in times of crises (global financial crisis, European debt crisis, and COVID-19 pandemic). We also explore the channels through which banking sector size might affect economic growth, including economic and financial conditions as well as variables characterising the state of the banking sector in each country in the panel models to further illustrate the impact of banking sector size on growth. The results generally demonstrate a negative relationship between size of the banking sector and economic growth. Our estimations also suggest that the negative relationship was especially strong in times of crises. The primary channels through which banking sector size might affect economic growth appear to be financial stress and bank riskiness, and profitability in addition to divergence of resources towards construction and employment in the financial sector.

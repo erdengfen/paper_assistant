@@ -1,0 +1,7 @@
+标题: Warehouse Receipt Financing Governance Optimization Based on the Blockchain
+
+作者: Zheng, Xiao-xi, Liu, Cheng-yong
+
+发表日期: 2026-01-01
+
+摘要: Warehouse receipt financing contributes to settling financing difficulties in middle and small-sized enterprises. Although the Warehouse receipt financing framework is becoming increasingly mature, violations are still inevitable and they may thus undermine the soundness of the financial market. The blockchain has been highlighted in the capital market thanks to its advantages of decentralization, tamper-resistance, high transparency, etc. Moreover, China has launched an online whole-process electronic Warehouse receipt financing business based on the blockchain. From the perspective of combining the blockchain with Warehouse receipt financing, this study probes into how to compensate for defects and legal loopholes in the Warehouse receipt financing process based on new techniques such as the blockchain and the Internet of Things (IoT).

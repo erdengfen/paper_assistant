@@ -1,0 +1,7 @@
+标题: Hybrid Niching Differential Evolution with Restart Strategy for Multimodal Optimization
+
+作者: Zhou, Xinyu, Yin, Jingjin, Chen, Hua, Ni, Wenlong, Wang, Mingwen
+
+发表日期: 2026-01-01
+
+摘要: As an effective diversity preservation technique, niching technique has been extensively used to assist evolutionary algorithms (EAs) for multimodal optimization problems (MMOPs). However, different niching techniques have different preferences for exploration and exploitation, and most existing niching techniques are used alone, which influence the performance of multimodal optimization algorithms to some extent. Therefore, an enhanced differential evolution (DE) variant, called HNDE-RS, is proposed by designing a hybrid niching strategy. In this strategy, two niching techniques, i.e., crowding and speciation, are utilized simultaneously and integrated with DE to evolve the population. In addition, HNDE-RS has another strategy, i.e., a novel restart strategy, which utilizes the DBSCAN clustering technique and an external archive to construct a new population when stagnation or premature convergence occurs. In the experiments, HNDE-RS is verified on CEC2013 multimodal test suit and compared with 6 state-of-the-art multimodal optimization algorithms. The experimental results demonstrate the competitive performance of HNDE-RS, especially on the functions with a large number of global optimal solutions.

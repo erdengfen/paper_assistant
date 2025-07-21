@@ -1,0 +1,25 @@
+标题: Stochastic Recurrent Neural Network for Multistep Time Series
+  Forecasting
+
+作者: Zexuan Yin, Paolo Barucca
+
+发表日期: 2021-04-26
+
+摘要: Time series forecasting based on deep architectures has been gaining
+popularity in recent years due to their ability to model complex non-linear
+temporal dynamics. The recurrent neural network is one such model capable of
+handling variable-length input and output. In this paper, we leverage recent
+advances in deep generative models and the concept of state space models to
+propose a stochastic adaptation of the recurrent neural network for
+multistep-ahead time series forecasting, which is trained with stochastic
+gradient variational Bayes. In our model design, the transition function of the
+recurrent neural network, which determines the evolution of the hidden states,
+is stochastic rather than deterministic as in a regular recurrent neural
+network; this is achieved by incorporating a latent random variable into the
+transition process which captures the stochasticity of the temporal dynamics.
+Our model preserves the architectural workings of a recurrent neural network
+for which all relevant information is encapsulated in its hidden states, and
+this flexibility allows our model to be easily integrated into any deep
+architecture for sequential modelling. We test our model on a wide range of
+datasets from finance to healthcare; results show that the stochastic recurrent
+neural network consistently outperforms its deterministic counterpart.

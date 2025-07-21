@@ -1,0 +1,17 @@
+标题: Homomorphic Self-Supervised Learning
+
+作者: T. Anderson Keller, Xavier Suau, Luca Zappella
+
+发表日期: 2022-11-15
+
+摘要: In this work, we observe that many existing self-supervised learning
+algorithms can be both unified and generalized when seen through the lens of
+equivariant representations. Specifically, we introduce a general framework we
+call Homomorphic Self-Supervised Learning, and theoretically show how it may
+subsume the use of input-augmentations provided an augmentation-homomorphic
+feature extractor. We validate this theory experimentally for simple
+augmentations, demonstrate how the framework fails when representational
+structure is removed, and further empirically explore how the parameters of
+this framework relate to those of traditional augmentation-based
+self-supervised learning. We conclude with a discussion of the potential
+benefits afforded by this new perspective on self-supervised learning.

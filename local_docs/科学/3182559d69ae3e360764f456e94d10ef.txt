@@ -1,0 +1,7 @@
+标题: Sonochemistry Science and Engineering: Understanding the Concepts
+
+作者: Hatvate, Navnath, Akolkar, Hemantkumar N., Haghi, A. K.
+
+发表日期: 2026-01-01
+
+摘要: Sonochemistry, which involves acoustic cavitation with the help of ultrasonic waves, is an emerging field in every domain. As known to all, the field finds wide applications in pharmaceuticals, polymer sciences, dentistry, mining, extraction, and many others. This field can also prove to be a boon for the environment due to its vast applications in environmental remediation, removal of pollutants, using environmentally friendly methodology, etc. Sonochemistry is a recent area of interest due to its low cost, reduced waste generation, shorter time requirement, and increased efficiency of processes. This chapter gives insights into the development of ultrasound, its application, concept, and challenges.

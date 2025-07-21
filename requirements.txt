@@ -1,0 +1,14 @@
+langchain
+chromadb
+sentence-transformers
+huggingface-hub
+arxiv
+requests
+beautifulsoup4
+lxml
+python-dotenv
+jieba
+transformers
+torch
+gradio
+serpapi

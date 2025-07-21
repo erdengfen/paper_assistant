@@ -1,0 +1,15 @@
+标题: ASRL:A robust loss function with potential for development
+
+作者: Chenyu Hui, Anran Zhang, Xintong Li
+
+发表日期: 2025-04-09
+
+摘要: In this article, we proposed a partition:wise robust loss function based on
+the previous robust loss function. The characteristics of this loss function
+are that it achieves high robustness and a wide range of applicability through
+partition-wise design and adaptive parameter adjustment. Finally, the
+advantages and development potential of this loss function were verified by
+applying this loss function to the regression question and using five different
+datasets (with different dimensions, different sample numbers, and different
+fields) to compare with the other loss functions. The results of multiple
+experiments have proven the advantages of our loss function .

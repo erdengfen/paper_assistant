@@ -1,0 +1,7 @@
+标题: Predicting Information Diffusion on Social Media Using an Epidemiological Approach
+
+作者: Conte, Dajana, Iscaro, Samira, Paternoster, Beatrice
+
+发表日期: 2026-01-01
+
+摘要: Recent decades have been characterized by deep changes in our way of communicating thanks to powerful new tools e.g., social networks, that allow a fast spread of information with very limited costs and control. In this paper, we will show the importance of analyzing information diffusion on social media in the first phases of the news spread, using a mathematical epidemiological approach. We will highlight the importance of predicting the evolution of the news trend over time before a loss of interest from social media users is observed. For this reason, firstly, we will analyze the characteristics of several kinds of mathematical models from literature to choose the most appropriate for our purposes, showing that a possible choice consists of a model of Ignorant - Spreader - Exposed - Skeptic (IESZ) type. Then, we will describe a possible strategy to compute optimized parameters for the chosen model starting from a dataset of real data. Finally, by exploiting several case studies regarding both true and fake news shared on X (Twitter) in the last years, we will show that the proposed strategy is truly applicable to reality.

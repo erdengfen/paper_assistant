@@ -1,0 +1,7 @@
+标题: Fostering Affective-Domain Learning Objectives in Design Thinking: The Impact of Online Collaborative Whiteboards on Basic Psychological Needs
+
+作者: Liu, Yi-Lin Elim, Lee, Tseng-Pin, Huang, Yueh-Min
+
+发表日期: 2026-01-01
+
+摘要: This study investigated the dynamics of design thinking in virtual collaborative environments, examining the relationships between collaborative technology affordances, basic psychological needs (autonomy, competence, and relatedness), and affective‑domain learning objectives. Using Partial Least Squares Structural Equation Modeling (PLS-SEM) with data from 127 university students engaged in design thinking courses, we found that pedagogical and collaborative affordances positively influenced all three psychological needs. All three psychological needs impacted various affective-domain learning objectives. Competence strongly predicted learning attitude (β = 0.453, p < 0.001), while autonomy greatly influenced learning motivation (β = 0.487, p < 0.01) and self-efficacy (β = 0.337, p < 0.001). Relatedness had weaker but significant effects on learning attitude (β = 0.149, p < 0.01) and self-efficacy (β = 0.207, p < 0.05); however, relatedness did not significantly relate to learning motivation. The research advances understanding of technology-mediated collaborative learning by revealing how environmental affordances and psychological needs interact to shape affective outcomes in design thinking education.

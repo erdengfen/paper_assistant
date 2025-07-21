@@ -1,0 +1,5 @@
+标题: A review of cancer immunotherapy toxicity.
+
+作者: Lucy Boyce Kennedy, April K S Salama
+
+摘要: Cancer immunotherapies, including checkpoint inhibitors and adoptive cell therapy, manipulate the immune system to recognize and attack cancer cells. These therapies have the potential to induce durable responses in multiple solid and hematologic malignancies and thus have transformed treatment algorithms for numerous tumor types. Cancer immunotherapies lead to unique toxicity profiles distinct from the toxicities of other cancer therapies, depending on their mechanism of action. These toxicities often require specific management, which can include steroids and immune-modulating therapy and for which consensus guidelines have been published. This review will focus on the toxicities of checkpoint inhibitors and chimeric antigen receptor T cells, including pathophysiology, diagnosis, and management.

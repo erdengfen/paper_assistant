@@ -1,0 +1,7 @@
+标题: Simultaneously Simple Universal and Indifferentiable Hashing to Elliptic Curves
+
+作者: Koshelev, Dimitri
+
+发表日期: 2026-01-01
+
+摘要: The present article explains how to generalize the hash function SwiftEC (in an elementary quasi-unified way) to any elliptic curve E over any finite field $$\mathbb {F}_{\!q}$$ F q  of characteristic $$> 3$$ > 3 . The new result apparently brings the theory of hash functions onto elliptic curves to its logical conclusion. To be more precise, this article provides compact formulas that define a hash function $$\{0,1\}^* \rightarrow E(\mathbb {F}_{\!q})$$ { 0 , 1 } ∗ → E ( F q ) (deterministic and indifferentible from a random oracle) with the same working principle as SwiftEC. In particular, both of them equally compute only one square root in $$\mathbb {F}_{\!q}$$ F q (in addition to two cheap Legendre symbols). However, the new hash function is valid with much more liberal conditions than SwiftEC, namely when $$3 \mid q-1$$ 3 ∣ q - 1 . Since in the opposite case $$3 \mid q-2$$ 3 ∣ q - 2 there are already indifferentiable constant-time hash functions to E with the cost of one root in $$\mathbb {F}_{\!q}$$ F q , this case is not processed in the article. If desired, its approach nonetheless allows to easily do that mutatis mutandis.

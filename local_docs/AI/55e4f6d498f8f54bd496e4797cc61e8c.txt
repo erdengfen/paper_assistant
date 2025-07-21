@@ -1,0 +1,16 @@
+标题: Making Convex Loss Functions Robust to Outliers using $e$-Exponentiated
+  Transformation
+
+作者: Suvadeep Hajra
+
+发表日期: 2019-02-16
+
+摘要: In this paper, we propose a novel {\em $e$-exponentiated} transformation, $0
+\le e<1$, for loss functions. When the transformation is applied to a convex
+loss function, the transformed loss function become more robust to outliers.
+Using a novel generalization error bound, we have theoretically shown that the
+transformed loss function has a tighter bound for datasets corrupted by
+outliers. Our empirical observation shows that the accuracy obtained using the
+transformed loss function can be significantly better than the same obtained
+using the original loss function and comparable to that obtained by some other
+state of the art methods in the presence of label noise.

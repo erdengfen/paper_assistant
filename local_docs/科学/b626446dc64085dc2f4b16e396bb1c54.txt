@@ -1,0 +1,7 @@
+标题: Extending YOLO for Feature-Based Classification Through Numerical-to-Image Transformation
+
+作者: Khunsongkiet, Piyavach, Mahanan, Waranya
+
+发表日期: 2026-01-01
+
+摘要: Datasets in many fields often include a mix of unstructured data, such as images, and structured data, like numerical or textual information. However, integrating these types of data for analysis is challenging because most classification algorithms are built to process only one type—either structured or unstructured—at a time. To address this issue, this research introduces the Numerical-to-Image Strip Encoding (NISE) method, a novel approach for transforming numerical datasets into image representations, enabling their compatibility with YOLOv5. The NISE method consists of three distinct algorithms, with optional Principal Component Analysis (PCA) integration for dimensionality reduction. The proposed method bridges the gap between numerical and image-based machine learning frameworks, allowing for unified data processing. Results show that NISE demonstrates competitive performance, achieving high accuracy on complex datasets, while introducing a trade-off in processing time due to the use of YOLOv5. However, this trade-off provides versatility, allowing image-based models to handle numerical data, which is particularly advantageous for complex datasets.

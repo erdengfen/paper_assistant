@@ -1,0 +1,12 @@
+标题: ORRB -- OpenAI Remote Rendering Backend
+
+作者: Maciek Chociej, Peter Welinder, Lilian Weng
+
+发表日期: 2019-06-26
+
+摘要: We present the OpenAI Remote Rendering Backend (ORRB), a system that allows
+fast and customizable rendering of robotics environments. It is based on the
+Unity3d game engine and interfaces with the MuJoCo physics simulation library.
+ORRB was designed with visual domain randomization in mind. It is optimized for
+cloud deployment and high throughput operation. We are releasing it to the
+public under a liberal MIT license: https://github.com/openai/orrb .

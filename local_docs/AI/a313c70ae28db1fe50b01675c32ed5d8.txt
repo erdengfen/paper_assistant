@@ -1,0 +1,18 @@
+标题: Deep Neural Networks for Pattern Recognition
+
+作者: Kyongsik Yun, Alexander Huyen, Thomas Lu
+
+发表日期: 2018-09-25
+
+摘要: In the field of pattern recognition research, the method of using deep neural
+networks based on improved computing hardware recently attracted attention
+because of their superior accuracy compared to conventional methods. Deep
+neural networks simulate the human visual system and achieve human equivalent
+accuracy in image classification, object detection, and segmentation. This
+chapter introduces the basic structure of deep neural networks that simulate
+human neural networks. Then we identify the operational processes and
+applications of conditional generative adversarial networks, which are being
+actively researched based on the bottom-up and top-down mechanisms, the most
+important functions of the human visual perception process. Finally, recent
+developments in training strategies for effective learning of complex deep
+neural networks are addressed.

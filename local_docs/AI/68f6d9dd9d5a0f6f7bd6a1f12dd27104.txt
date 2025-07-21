@@ -1,0 +1,23 @@
+标题: Impact of Label Types on Training SWIN Models with Overhead Imagery
+
+作者: Ryan Ford, Kenneth Hutchison, Nicholas Felts, Benjamin Cheng, Jesse Lew, Kyle Jackson
+
+发表日期: 2023-10-11
+
+摘要: Understanding the impact of data set design on model training and performance
+can help alleviate the costs associated with generating remote sensing and
+overhead labeled data. This work examined the impact of training shifted window
+transformers using bounding boxes and segmentation labels, where the latter are
+more expensive to produce. We examined classification tasks by comparing models
+trained with both target and backgrounds against models trained with only
+target pixels, extracted by segmentation labels. For object detection models,
+we compared performance using either label type when training. We found that
+the models trained on only target pixels do not show performance improvement
+for classification tasks, appearing to conflate background pixels in the
+evaluation set with target pixels. For object detection, we found that models
+trained with either label type showed equivalent performance across testing. We
+found that bounding boxes appeared to be sufficient for tasks that did not
+require more complex labels, such as object segmentation. Continuing work to
+determine consistency of this result across data types and model architectures
+could potentially result in substantial savings in generating remote sensing
+data sets for deep learning.

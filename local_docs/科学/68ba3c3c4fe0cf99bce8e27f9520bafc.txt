@@ -1,0 +1,7 @@
+标题: Communal Level Cybersecurity Incidents in the Slovak Republic
+
+作者: Fečko, Miroslav, Mitaľ, Ondrej, Ručinská, Silvia
+
+发表日期: 2026-01-01
+
+摘要: The study investigates issues surrounding cybersecurity, one of the crucial topics connected with digital transformation of society. Municipalities and cities help to shape digital transformation at local level, mainly thanks to growing use of digital solutions. This tendency also leads to higher vulnerability of municipalities and cities. The study uses a literature review and multiple case study method to examine the relevance of bottom-up approach of municipalities and cities in building cybersecurity and responding to cyberattacks. Regarding the conditions of the Slovak Republic and increasing occurrence of cyberattacks targeting municipalities and cities, 5 cases of cyberattacks were analysed, focusing on mainly on type of the attacks and caused impact. The main benefit of the study is contribution to existing empirical findings that confirm the importance of bottom-up approaches in cybersecurity agenda at local level. Municipalities and cities have become relevant actors that utilize outcomes of digital transformation on local communities, but also important actors that can formulate locally specific cybersecurity policies and face cyberattacks.

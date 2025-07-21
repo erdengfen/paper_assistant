@@ -1,0 +1,7 @@
+标题: Kaldor–Kalecki Business Cycle Model: An 80-Year Multidisciplinary Retrospective
+
+作者: Orlando, Giuseppe, Vellucci, Pierluigi, Zimatore, Giovanna
+
+发表日期: 2025-08-01
+
+摘要: Business cycles exhibit complex fluctuations driven by economic downturns and expansions. Understanding whether these fluctuations follow deterministic chaos is crucial for economic modeling and policy planning. This study investigates the presence of deterministic chaos in business cycles by analyzing real-world economic data and simulations based on the Kaldor–Kalecki model. Using advanced analytical techniques, including recurrence quantification analysis (RQA), principal component analysis (PCA), and wavelet entropy, we assess whether endogenous economic collapses can be simulated and detected in real data. The findings reveal that transitions from laminar (regular) to turbulent (chaotic) phases occur in both simulated and historical economic data, such as U.S. GDP downturns in 1949, 1953, and 1958. Moreover, statistical analyses confirm that the simulated and real-world data are indistinguishable, reinforcing the model’s validity. These insights suggest that different economies, despite following distinct developmental trajectories, may be governed by a shared deterministic dynamic. By identifying such structures in business cycles, this study contributes to improving economic forecasting and crisis detection methodologies, offering valuable implications for policymakers and economists.

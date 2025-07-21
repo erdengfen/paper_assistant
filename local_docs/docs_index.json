@@ -1,0 +1,3771 @@
+{
+  "43622b77741835a47d2479a8375ed2a7": {
+    "title": "GPT Store Mining and Analysis",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2405.10210v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\43622b77741835a47d2479a8375ed2a7.txt",
+    "content_length": 1316,
+    "added_time": "2025-07-05T15:22:14.787699",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "f8ac9e417d83b42a213fe99f41c1ce58": {
+    "title": "Tracking GPTs Third Party Service: Automation, Analysis, and Insights",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2506.17315v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\f8ac9e417d83b42a213fe99f41c1ce58.txt",
+    "content_length": 1374,
+    "added_time": "2025-07-05T15:22:15.797244",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "b20c962978d5dbcf95f85c22c82cfd48": {
+    "title": "Privacy and Security Threat for OpenAI GPTs",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2506.04036v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\b20c962978d5dbcf95f85c22c82cfd48.txt",
+    "content_length": 1935,
+    "added_time": "2025-07-05T15:22:16.799388",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "9cee9c725a587c0f79189d234cdd748d": {
+    "title": "GPT in Game Theory Experiments",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2305.05516v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\9cee9c725a587c0f79189d234cdd748d.txt",
+    "content_length": 1251,
+    "added_time": "2025-07-05T15:22:17.807173",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "577123a8f40b4b9fabf95fd064231bd6": {
+    "title": "How to Capture and Study Conversations Between Research Participants and\n  ChatGPT: GPT for Researchers (g4r.org)",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2503.18303v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\577123a8f40b4b9fabf95fd064231bd6.txt",
+    "content_length": 1469,
+    "added_time": "2025-07-05T15:22:18.809359",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "da3a859cc5395c3387142c970db7993a": {
+    "title": "OpenAI Gym",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1606.01540v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\da3a859cc5395c3387142c970db7993a.txt",
+    "content_length": 500,
+    "added_time": "2025-07-06T15:08:11.314746",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "ecb058ab1467dbc1b40d6c693228f5b9": {
+    "title": "An Empirical Study of OpenAI API Discussions on Stack Overflow",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2505.04084v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\ecb058ab1467dbc1b40d6c693228f5b9.txt",
+    "content_length": 1282,
+    "added_time": "2025-07-06T15:08:12.320526",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "139dd4b73ce4de85aadb89b1c44a4579": {
+    "title": "ORRB -- OpenAI Remote Rendering Backend",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1906.11633v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\139dd4b73ce4de85aadb89b1c44a4579.txt",
+    "content_length": 571,
+    "added_time": "2025-07-06T15:08:13.325720",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "806c2e685b1ef5e50aeefb8d795ee01c": {
+    "title": "Learning Dexterous In-Hand Manipulation",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1808.00177v5",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\806c2e685b1ef5e50aeefb8d795ee01c.txt",
+    "content_length": 1137,
+    "added_time": "2025-07-06T15:08:14.330655",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "66a92321950f9d44918939f30b7eece8": {
+    "title": "GPTs Window Shopping: An analysis of the Landscape of Custom ChatGPT\n  Models",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2405.10547v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\66a92321950f9d44918939f30b7eece8.txt",
+    "content_length": 1648,
+    "added_time": "2025-07-06T15:08:15.334324",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "650453d8fe914d258d2a55054d23d9f1": {
+    "title": "Exploring Memorization and Copyright Violation in Frontier LLMs: A Study\n  of the New York Times v. OpenAI 2023 Lawsuit",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2412.06370v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\650453d8fe914d258d2a55054d23d9f1.txt",
+    "content_length": 1648,
+    "added_time": "2025-07-06T15:08:16.338391",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "65455f6546064adb3b40b47f2443170c": {
+    "title": "OpenAI Cribbed Our Tax Example, But Can GPT-4 Really Do Tax?",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2309.09992v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\65455f6546064adb3b40b47f2443170c.txt",
+    "content_length": 328,
+    "added_time": "2025-07-06T15:08:17.342433",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "87a6e6d6dcc6c25e811bd67db4f01926": {
+    "title": "The ADAIO System at the BEA-2023 Shared Task on Generating AI Teacher\n  Responses in Educational Dialogues",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2306.05360v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\87a6e6d6dcc6c25e811bd67db4f01926.txt",
+    "content_length": 945,
+    "added_time": "2025-07-06T15:08:18.346698",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "08cafb9b4d824f12526183b49aaee339": {
+    "title": "Voices from the Frontier: A Comprehensive Analysis of the OpenAI\n  Developer Forum",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2408.01687v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\08cafb9b4d824f12526183b49aaee339.txt",
+    "content_length": 1384,
+    "added_time": "2025-07-06T15:08:19.351139",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "6dc31ef3cdede521f47effb7dc80b1f9": {
+    "title": "Dota 2 with Large Scale Deep Reinforcement Learning",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1912.06680v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\6dc31ef3cdede521f47effb7dc80b1f9.txt",
+    "content_length": 1281,
+    "added_time": "2025-07-06T15:08:20.355470",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "d1a5c63bfae8274f7c0337d9753286af": {
+    "title": "Empathy in Human-Robot Interaction: Designing for Social Robots.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35162909/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\d1a5c63bfae8274f7c0337d9753286af.txt",
+    "content_length": 1400,
+    "added_time": "2025-07-06T15:10:35.196056",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "80df2e91ea786d545b0c4d526d11bcf9": {
+    "title": "Rat's age versus human's age: what is the relationship?",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22569979/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\80df2e91ea786d545b0c4d526d11bcf9.txt",
+    "content_length": 355,
+    "added_time": "2025-07-06T15:10:36.727312",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "91127154df7cc13bbfb42be68979b90f": {
+    "title": "Hierarchical Human-Inspired Control Strategies for Prosthetic Hands.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35408135/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\91127154df7cc13bbfb42be68979b90f.txt",
+    "content_length": 1444,
+    "added_time": "2025-07-06T15:10:38.691274",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "4ab2123a15dbf4341b002d4a150c4df9": {
+    "title": "Anti-cancer activity of human gastrointestinal bacteria.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36175586/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\4ab2123a15dbf4341b002d4a150c4df9.txt",
+    "content_length": 1874,
+    "added_time": "2025-07-06T15:10:40.658148",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "d4045bf550df91e67e6f8bb3d81be93d": {
+    "title": "Human Streptococcus suis Infections in Thailand: Epidemiology, Clinical Features, Genotypes, and Susceptibility.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36355901/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\d4045bf550df91e67e6f8bb3d81be93d.txt",
+    "content_length": 1231,
+    "added_time": "2025-07-06T15:10:42.398519",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "ee8c3fd99390ef0fbd9b1eb2ccb792b3": {
+    "title": "关于GPT-3有何特点？的搜索结果",
+    "source": "网页抓取",
+    "url": "(未知来源)",
+    "category": "其他",
+    "file_path": "local_docs\\其他\\ee8c3fd99390ef0fbd9b1eb2ccb792b3.txt",
+    "content_length": 48324,
+    "added_time": "2025-07-06T15:31:25.093414",
+    "keywords": [
+      "包含",
+      "此外",
+      "例如",
+      "是由",
+      "许可证",
+      "然而",
+      "数据集",
+      "网址为",
+      "包含约",
+      "使用"
+    ]
+  },
+  "dbc3c4c1aec6944ab2f0db95b4ef5bf6": {
+    "title": "关于GPT-3的特点是什么？的搜索结果",
+    "source": "网页抓取",
+    "url": "(未知来源)",
+    "category": "其他",
+    "file_path": "local_docs\\其他\\dbc3c4c1aec6944ab2f0db95b4ef5bf6.txt",
+    "content_length": 48324,
+    "added_time": "2025-07-06T15:43:47.335961",
+    "keywords": [
+      "包含",
+      "此外",
+      "例如",
+      "是由",
+      "许可证",
+      "然而",
+      "数据集",
+      "网址为",
+      "包含约",
+      "使用"
+    ]
+  },
+  "a208e0b393b7654cc8eecdf5a79d0a5d": {
+    "title": "关于GPT-3有什么特点？的搜索结果",
+    "source": "网页抓取",
+    "url": "(未知来源)",
+    "category": "其他",
+    "file_path": "local_docs\\其他\\a208e0b393b7654cc8eecdf5a79d0a5d.txt",
+    "content_length": 48324,
+    "added_time": "2025-07-06T16:26:47.310877",
+    "keywords": [
+      "包含",
+      "此外",
+      "例如",
+      "是由",
+      "许可证",
+      "然而",
+      "数据集",
+      "网址为",
+      "包含约",
+      "使用"
+    ]
+  },
+  "5cfccbd44a0c439344faf83b319ae9b0": {
+    "title": "深度学习在自然语言处理中的应用",
+    "source": "AI研究期刊2024",
+    "url": "https://example.com/ai-paper1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\5cfccbd44a0c439344faf83b319ae9b0.txt",
+    "content_length": 75,
+    "added_time": "2025-07-07T16:20:03.370678",
+    "keywords": [
+      "本文介绍了深度学习技术在自然语言处理领域的各种应用",
+      "包括机器翻译",
+      "文本分类",
+      "问答系统等",
+      "通过分析最新的研究进展",
+      "探讨了深度学习在",
+      "中的优势和挑战"
+    ]
+  },
+  "25f759cfd57da5733b524f8ad4376b1e": {
+    "title": "心血管疾病的早期诊断方法",
+    "source": "医学研究期刊2024",
+    "url": "https://example.com/medical-paper1",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\25f759cfd57da5733b524f8ad4376b1e.txt",
+    "content_length": 62,
+    "added_time": "2025-07-07T16:20:03.386397",
+    "keywords": [
+      "心血管疾病是全球主要的健康威胁之一",
+      "本文综述了最新的早期诊断技术",
+      "包括生物标志物检测",
+      "影像学检查等方法",
+      "为临床实践提供参考"
+    ]
+  },
+  "1940ea5aa09c1ae7359e024124bf3576": {
+    "title": "Opening the black box of deep learning",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1805.08355v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\1940ea5aa09c1ae7359e024124bf3576.txt",
+    "content_length": 1546,
+    "added_time": "2025-07-07T19:03:27.133465",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "e8788e46d079c0940d6231c1f21291e4": {
+    "title": "A First Look at Deep Learning Apps on Smartphones",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1812.05448v4",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\e8788e46d079c0940d6231c1f21291e4.txt",
+    "content_length": 1197,
+    "added_time": "2025-07-07T19:03:28.139776",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "9eb74fa944110b77ebc98f0f009323b8": {
+    "title": "Concept-Oriented Deep Learning",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1806.01756v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\9eb74fa944110b77ebc98f0f009323b8.txt",
+    "content_length": 710,
+    "added_time": "2025-07-07T19:03:29.142541",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "16ef0e9afac722c5be53509b6e884b4a": {
+    "title": "Moving Deep Learning into Web Browser: How Far Can We Go?",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1901.09388v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\16ef0e9afac722c5be53509b6e884b4a.txt",
+    "content_length": 1097,
+    "added_time": "2025-07-07T19:03:30.147755",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "04bede02cafc7f61175f6e679808b37c": {
+    "title": "Deep Learning in Software Engineering",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1805.04825v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\04bede02cafc7f61175f6e679808b37c.txt",
+    "content_length": 1106,
+    "added_time": "2025-07-07T19:03:31.154050",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "bbc617575d10f11fd8c404a484a9ecfd": {
+    "title": "Lecture Notes: Optimization for Machine Learning",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1909.03550v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\bbc617575d10f11fd8c404a484a9ecfd.txt",
+    "content_length": 272,
+    "added_time": "2025-07-07T19:03:48.957107",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "e4eb95b9e43f3c1747fe7d809cfea01e": {
+    "title": "Machine Learning for Clinical Predictive Analytics",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1909.09246v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\e4eb95b9e43f3c1747fe7d809cfea01e.txt",
+    "content_length": 936,
+    "added_time": "2025-07-07T19:03:49.962620",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "1b243572a258c67507b7d941e9f25909": {
+    "title": "Towards Modular Machine Learning Solution Development: Benefits and\n  Trade-offs",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2301.09753v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\1b243572a258c67507b7d941e9f25909.txt",
+    "content_length": 1401,
+    "added_time": "2025-07-07T19:03:50.967590",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "b97393420ae7960041416f82d648c6a0": {
+    "title": "An Optimal Control View of Adversarial Machine Learning",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1811.04422v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\b97393420ae7960041416f82d648c6a0.txt",
+    "content_length": 624,
+    "added_time": "2025-07-07T19:03:51.972686",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "e29f17bc5af3e9abdf054b27d71cec3a": {
+    "title": "The Tribes of Machine Learning and the Realm of Computer Architecture",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2012.04105v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\e29f17bc5af3e9abdf054b27d71cec3a.txt",
+    "content_length": 647,
+    "added_time": "2025-07-07T19:03:52.978999",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "f7dfb1fad71a9e03c09bff07bae7bd30": {
+    "title": "Lecture Notes: Neural Network Architectures",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2304.05133v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\f7dfb1fad71a9e03c09bff07bae7bd30.txt",
+    "content_length": 459,
+    "added_time": "2025-07-07T19:04:04.960402",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "0ad27b8a143089d9300775c31a0bc2da": {
+    "title": "Neural Network Processing Neural Networks: An efficient way to learn\n  higher order functions",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1911.05640v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\0ad27b8a143089d9300775c31a0bc2da.txt",
+    "content_length": 576,
+    "added_time": "2025-07-07T19:04:05.966764",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "b7eec5910a08ae93bc09c8cf7853af30": {
+    "title": "Guaranteed Quantization Error Computation for Neural Network Model\n  Compression",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2304.13812v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\b7eec5910a08ae93bc09c8cf7853af30.txt",
+    "content_length": 850,
+    "added_time": "2025-07-07T19:04:06.970187",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "1ea15056afa6bad77ca7bea47dab6380": {
+    "title": "Self-Organizing Multilayered Neural Networks of Optimal Complexity",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/cs/0504056v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\1ea15056afa6bad77ca7bea47dab6380.txt",
+    "content_length": 410,
+    "added_time": "2025-07-07T19:04:07.976477",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "939706e2a1acde2fb9a86de58fa2c1f6": {
+    "title": "Hybrid Quantum-Classical Neural Networks for Downlink Beamforming\n  Optimization",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2408.04747v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\939706e2a1acde2fb9a86de58fa2c1f6.txt",
+    "content_length": 1545,
+    "added_time": "2025-07-07T19:04:08.983616",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "dd372d9ab5fff2fadb5dfa7adb0e35ed": {
+    "title": "Are Deep Neural Networks \"Robust\"?",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2008.12650v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\dd372d9ab5fff2fadb5dfa7adb0e35ed.txt",
+    "content_length": 319,
+    "added_time": "2025-07-07T19:04:20.397548",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "7d6443e1f87dc5bb460e1fe4b50d4277": {
+    "title": "Deep Neural Networks - A Brief History",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1701.05549v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\7d6443e1f87dc5bb460e1fe4b50d4277.txt",
+    "content_length": 144,
+    "added_time": "2025-07-07T19:04:21.403122",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "aa956e34154a646eb948a52f0c2bbccf": {
+    "title": "Exploring the Imposition of Synaptic Precision Restrictions For\n  Evolutionary Synthesis of Deep Neural Networks",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1707.00095v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\aa956e34154a646eb948a52f0c2bbccf.txt",
+    "content_length": 1616,
+    "added_time": "2025-07-07T19:04:22.409738",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "c03a4e58f8b19dec13832fb14ff2c23b": {
+    "title": "Exponential Convergence of the Deep Neural Network Approximation for\n  Analytic Functions",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1807.00297v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\c03a4e58f8b19dec13832fb14ff2c23b.txt",
+    "content_length": 277,
+    "added_time": "2025-07-07T19:04:23.413698",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "a313c70ae28db1fe50b01675c32ed5d8": {
+    "title": "Deep Neural Networks for Pattern Recognition",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1809.09645v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\a313c70ae28db1fe50b01675c32ed5d8.txt",
+    "content_length": 980,
+    "added_time": "2025-07-07T19:04:24.421011",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "72e6638de05b559583cffeeb6f187fb2": {
+    "title": "One weird trick for parallelizing convolutional neural networks",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1404.5997v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\72e6638de05b559583cffeeb6f187fb2.txt",
+    "content_length": 329,
+    "added_time": "2025-07-07T19:04:38.000018",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "4c285e0a223068c2f30a851833b95410": {
+    "title": "VC dimensions of group convolutional neural networks",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2212.09507v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\4c285e0a223068c2f30a851833b95410.txt",
+    "content_length": 565,
+    "added_time": "2025-07-07T19:04:39.002732",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "97da55dc58c6299a2c4daf82197b4499": {
+    "title": "Training convolutional neural networks with megapixel images",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1804.05712v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\97da55dc58c6299a2c4daf82197b4499.txt",
+    "content_length": 827,
+    "added_time": "2025-07-07T19:04:40.009332",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "7e855533cb01c32acad3723aa50dccb8": {
+    "title": "FusionAccel: A General Re-configurable Deep Learning Inference\n  Accelerator on FPGA for Convolutional Neural Networks",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1907.02217v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\7e855533cb01c32acad3723aa50dccb8.txt",
+    "content_length": 1001,
+    "added_time": "2025-07-07T19:04:41.014299",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "18fb08d55d3ad2437dacc4c0f8bf628b": {
+    "title": "Mesh-based graph convolutional neural networks for modeling materials\n  with microstructure",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2107.00090v3",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\18fb08d55d3ad2437dacc4c0f8bf628b.txt",
+    "content_length": 1230,
+    "added_time": "2025-07-07T19:04:42.020802",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "3769ac39b6e6f447cddfdb800d8c8cf2": {
+    "title": "DizzyRNN: Reparameterizing Recurrent Neural Networks for Norm-Preserving\n  Backpropagation",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1612.04035v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\3769ac39b6e6f447cddfdb800d8c8cf2.txt",
+    "content_length": 956,
+    "added_time": "2025-07-07T19:04:59.322880",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "b9ecb754c5a19335d7a585213cc6d023": {
+    "title": "Recurrent Neural Networks for Time Series Forecasting",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1901.00069v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\b9ecb754c5a19335d7a585213cc6d023.txt",
+    "content_length": 537,
+    "added_time": "2025-07-07T19:05:00.329500",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "05d3f0c5837475c49292dd5e02fb9e0a": {
+    "title": "Structural Recurrent Neural Network (SRNN) for Group Activity Analysis",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1802.02091v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\05d3f0c5837475c49292dd5e02fb9e0a.txt",
+    "content_length": 791,
+    "added_time": "2025-07-07T19:05:01.337847",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "6d9502349ff4b8ced40f29dfda618896": {
+    "title": "Explicit construction of recurrent neural networks effectively\n  approximating discrete dynamical systems",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2409.19278v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\6d9502349ff4b8ced40f29dfda618896.txt",
+    "content_length": 431,
+    "added_time": "2025-07-07T19:05:02.340745",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "e51584b5948a7ffd229820e2e92c8609": {
+    "title": "Stochastic Recurrent Neural Network for Multistep Time Series\n  Forecasting",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2104.12311v3",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\e51584b5948a7ffd229820e2e92c8609.txt",
+    "content_length": 1490,
+    "added_time": "2025-07-07T19:05:03.345788",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "a7c0ea14a4dbc3ff4afbe449a55c47ce": {
+    "title": "A Review of Semi Supervised Learning Theories and Recent Advances",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1905.11590v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\a7c0ea14a4dbc3ff4afbe449a55c47ce.txt",
+    "content_length": 774,
+    "added_time": "2025-07-07T19:05:15.105034",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "7d7c3d3888036a363ce3611d2188f186": {
+    "title": "Confidence-Guided Semi-supervised Learning in Land Cover Classification",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2305.10344v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\7d7c3d3888036a363ce3611d2188f186.txt",
+    "content_length": 1347,
+    "added_time": "2025-07-07T19:05:16.107535",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "6505a26fe09c86067fbcfa2b70f00075": {
+    "title": "Homomorphic Self-Supervised Learning",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2211.08282v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\6505a26fe09c86067fbcfa2b70f00075.txt",
+    "content_length": 920,
+    "added_time": "2025-07-07T19:05:17.112562",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "edc3e046fe9402ca7da038c682ca9314": {
+    "title": "Investigating a Baseline Of Self Supervised Learning Towards Reducing\n  Labeling Costs For Image Classification",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2108.07464v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\edc3e046fe9402ca7da038c682ca9314.txt",
+    "content_length": 1305,
+    "added_time": "2025-07-07T19:05:18.117760",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "a6251f8c845cbc7518399bfea29590f3": {
+    "title": "Hyperspherical Consistency Regularization",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2206.00845v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\a6251f8c845cbc7518399bfea29590f3.txt",
+    "content_length": 1442,
+    "added_time": "2025-07-07T19:05:19.123127",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "54fff0e7403b89b14237ab1d81285fc6": {
+    "title": "Meta-Unsupervised-Learning: A supervised approach to unsupervised\n  learning",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1612.09030v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\54fff0e7403b89b14237ab1d81285fc6.txt",
+    "content_length": 912,
+    "added_time": "2025-07-07T19:05:31.053419",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "1363b707c15c4d9a2bb7c94efc4f6c86": {
+    "title": "Statistical physics of unsupervised learning with prior knowledge in\n  neural networks",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1911.02344v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\1363b707c15c4d9a2bb7c94efc4f6c86.txt",
+    "content_length": 1295,
+    "added_time": "2025-07-07T19:05:32.059140",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "997a3bb06d79bc492a443e5d9e7d47c5": {
+    "title": "Online unsupervised Learning for domain shift in COVID-19 CT scan\n  datasets",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2108.02002v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\997a3bb06d79bc492a443e5d9e7d47c5.txt",
+    "content_length": 1212,
+    "added_time": "2025-07-07T19:05:33.064052",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "60f0a1790ad5bceea0ee621dcf975720": {
+    "title": "Speech Augmentation Based Unsupervised Learning for Keyword Spotting",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2205.14329v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\60f0a1790ad5bceea0ee621dcf975720.txt",
+    "content_length": 1276,
+    "added_time": "2025-07-07T19:05:34.069006",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "9de9f8b08a567cf2c1a93b70e95e803e": {
+    "title": "The Clever Hans Effect in Unsupervised Learning",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2408.08041v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\9de9f8b08a567cf2c1a93b70e95e803e.txt",
+    "content_length": 1099,
+    "added_time": "2025-07-07T19:05:35.075350",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "c0ccc1510c0d4ae52125ad6aca6d1f96": {
+    "title": "Some Insights into Lifelong Reinforcement Learning Systems",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2001.09608v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\c0ccc1510c0d4ae52125ad6aca6d1f96.txt",
+    "content_length": 553,
+    "added_time": "2025-07-07T19:05:47.162024",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "d737cd835ad473bb9f611e1d0bf2c895": {
+    "title": "Counterexample-Guided Repair of Reinforcement Learning Systems Using\n  Safety Critics",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2405.15430v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\d737cd835ad473bb9f611e1d0bf2c895.txt",
+    "content_length": 623,
+    "added_time": "2025-07-07T19:05:48.168947",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "9ac4895c7ef63b1717f1eb6521c77392": {
+    "title": "Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2108.11510v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\9ac4895c7ef63b1717f1eb6521c77392.txt",
+    "content_length": 1611,
+    "added_time": "2025-07-07T19:05:49.173755",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "607a2ac1ae6c91c9fc501568c6c0033f": {
+    "title": "Causal Reinforcement Learning: A Survey",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2307.01452v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\607a2ac1ae6c91c9fc501568c6c0033f.txt",
+    "content_length": 1531,
+    "added_time": "2025-07-07T19:05:50.181532",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "aa82a70996b6926463a6a4e16c75472a": {
+    "title": "Memory-two strategies forming symmetric mutual reinforcement learning\n  equilibrium in repeated prisoners' dilemma game",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2108.03258v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\aa82a70996b6926463a6a4e16c75472a.txt",
+    "content_length": 826,
+    "added_time": "2025-07-07T19:05:51.184913",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "43aaeabea0b60dd0e1581cc223b16f7a": {
+    "title": "Enhancing Physics-Informed Neural Networks Through Feature Engineering",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2502.07209v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\43aaeabea0b60dd0e1581cc223b16f7a.txt",
+    "content_length": 1553,
+    "added_time": "2025-07-07T19:05:56.482924",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "9a91b8495a015cb3e67c878e05af8798": {
+    "title": "Augmenting data-driven models for energy systems through feature\n  engineering: A Python framework for feature engineering",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2301.01720v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\9a91b8495a015cb3e67c878e05af8798.txt",
+    "content_length": 1545,
+    "added_time": "2025-07-07T19:05:57.491511",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "ddb3665f9fdf1691f1740c6c72922a38": {
+    "title": "Learning Text-Image Joint Embedding for Efficient Cross-Modal Retrieval\n  with Deep Feature Engineering",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2110.11592v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\ddb3665f9fdf1691f1740c6c72922a38.txt",
+    "content_length": 1522,
+    "added_time": "2025-07-07T19:05:58.496608",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "45826ad90dcf96fceaeca52982be63cc": {
+    "title": "Efficient Attack Detection in IoT Devices using Feature Engineering-Less\n  Machine Learning",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2301.03532v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\45826ad90dcf96fceaeca52982be63cc.txt",
+    "content_length": 1382,
+    "added_time": "2025-07-07T19:05:59.502756",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "713565d38800c9c8f5628b09202592ff": {
+    "title": "A Two Dimensional Feature Engineering Method for Relation Extraction",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2404.04959v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\713565d38800c9c8f5628b09202592ff.txt",
+    "content_length": 1343,
+    "added_time": "2025-07-07T19:06:00.509602",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "a78245ecdf21cf0d240d95e4442b76e8": {
+    "title": "Efficient Training Approaches for Performance Anomaly Detection Models\n  in Edge Computing Environments",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2408.12855v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\a78245ecdf21cf0d240d95e4442b76e8.txt",
+    "content_length": 1953,
+    "added_time": "2025-07-07T19:06:05.627782",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "68f6d9dd9d5a0f6f7bd6a1f12dd27104": {
+    "title": "Impact of Label Types on Training SWIN Models with Overhead Imagery",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2310.07572v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\68f6d9dd9d5a0f6f7bd6a1f12dd27104.txt",
+    "content_length": 1452,
+    "added_time": "2025-07-07T19:06:06.637777",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "209ba408a5c1431e364a69ee12b97678": {
+    "title": "Robustness of Deep Learning for Accelerated MRI: Benefits of Diverse\n  Training Data",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2312.10271v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\209ba408a5c1431e364a69ee12b97678.txt",
+    "content_length": 1398,
+    "added_time": "2025-07-07T19:06:07.643994",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "26bc4ef58b8433a62bb981d9a3c47eac": {
+    "title": "An empirical study of pretrained representations for few-shot\n  classification",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1910.01319v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\26bc4ef58b8433a62bb981d9a3c47eac.txt",
+    "content_length": 915,
+    "added_time": "2025-07-07T19:06:08.649695",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "750925eda4d04c35739bed354cfc59fd": {
+    "title": "A Human-AI Loop Approach for Joint Keyword Discovery and Expectation\n  Estimation in Micropost Event Detection",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1912.00667v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\750925eda4d04c35739bed354cfc59fd.txt",
+    "content_length": 1506,
+    "added_time": "2025-07-07T19:06:09.652806",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "4af8ca14a1ba3e236c83620a59e99ac0": {
+    "title": "ASRL:A robust loss function with potential for development",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2504.06935v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\4af8ca14a1ba3e236c83620a59e99ac0.txt",
+    "content_length": 797,
+    "added_time": "2025-07-07T19:06:15.518409",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "bcf7ad7a284ee27e76f4e4141158cdbe": {
+    "title": "The fundamental nature of the log loss function",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1502.06254v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\bcf7ad7a284ee27e76f4e4141158cdbe.txt",
+    "content_length": 837,
+    "added_time": "2025-07-07T19:06:16.525503",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "7f65fd291d4836d95535e88ddf4beb28": {
+    "title": "Loss Functions for Predictor-based Neural Architecture Search",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2506.05869v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\7f65fd291d4836d95535e88ddf4beb28.txt",
+    "content_length": 1537,
+    "added_time": "2025-07-07T19:06:17.532461",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "55e4f6d498f8f54bd496e4797cc61e8c": {
+    "title": "Making Convex Loss Functions Robust to Outliers using $e$-Exponentiated\n  Transformation",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1902.06127v2",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\55e4f6d498f8f54bd496e4797cc61e8c.txt",
+    "content_length": 809,
+    "added_time": "2025-07-07T19:06:18.541064",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "aa521ed2f7a2aee6ce4c8f6dcacefc2b": {
+    "title": "Loss Functions for Finite Sets",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2112.05927v3",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\aa521ed2f7a2aee6ce4c8f6dcacefc2b.txt",
+    "content_length": 716,
+    "added_time": "2025-07-07T19:06:19.546269",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "ba850c5969992c7fd15114393886f572": {
+    "title": "Personalized Optimization for Computer Experiments with Environmental\n  Inputs",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1607.01664v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\ba850c5969992c7fd15114393886f572.txt",
+    "content_length": 1092,
+    "added_time": "2025-07-07T19:06:27.638907",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "b9838eba99499c36e7090e512682f9b7": {
+    "title": "Stochastic Polynomial Optimization",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1908.05689v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\b9838eba99499c36e7090e512682f9b7.txt",
+    "content_length": 437,
+    "added_time": "2025-07-07T19:06:28.644168",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "5269a86500ea12e8ac5c81e7755bfeb9": {
+    "title": "Efficient Gradient-Enhanced Bayesian Optimizer with Comparisons to\n  Quasi-Newton Optimizers for Unconstrained Local Optimization",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2504.09375v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\5269a86500ea12e8ac5c81e7755bfeb9.txt",
+    "content_length": 1918,
+    "added_time": "2025-07-07T19:06:29.649299",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "2fd2021370b99d9c133a1b65309ad05a": {
+    "title": "Logical Fuzzy Optimization",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/1304.2384v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\2fd2021370b99d9c133a1b65309ad05a.txt",
+    "content_length": 630,
+    "added_time": "2025-07-07T19:06:30.657014",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "4584e16ea70bee59716d4d2d06b6e564": {
+    "title": "The Number of Steps Needed for Nonconvex Optimization of a Deep Learning\n  Optimizer is a Rational Function of Batch Size",
+    "source": "arXiv",
+    "url": "http://arxiv.org/abs/2108.11713v1",
+    "category": "AI",
+    "file_path": "local_docs\\AI\\4584e16ea70bee59716d4d2d06b6e564.txt",
+    "content_length": 1418,
+    "added_time": "2025-07-07T19:06:31.662674",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "bfb7f9731b14d121625752c2b0df1ea1": {
+    "title": "关于循环神经网络的搜索结果",
+    "source": "网页抓取",
+    "url": "(未知来源)",
+    "category": "其他",
+    "file_path": "local_docs\\其他\\bfb7f9731b14d121625752c2b0df1ea1.txt",
+    "content_length": 608,
+    "added_time": "2025-07-07T19:12:44.671434",
+    "keywords": []
+  },
+  "2d1799e5103c9f95f827351e5b761886": {
+    "title": "关于监督学习的搜索结果",
+    "source": "网页抓取",
+    "url": "(未知来源)",
+    "category": "其他",
+    "file_path": "local_docs\\其他\\2d1799e5103c9f95f827351e5b761886.txt",
+    "content_length": 608,
+    "added_time": "2025-07-07T21:28:19.068416",
+    "keywords": []
+  },
+  "c16bdd782d8668f58fdb0d4679ec8cb0": {
+    "title": "关于What is Supervised Learning?的搜索结果",
+    "source": "网页抓取",
+    "url": "(未知来源)",
+    "category": "其他",
+    "file_path": "local_docs\\其他\\c16bdd782d8668f58fdb0d4679ec8cb0.txt",
+    "content_length": 608,
+    "added_time": "2025-07-07T21:26:09.612964",
+    "keywords": []
+  },
+  "688a830b448c28ef8df673ae551b6ba5": {
+    "title": "Cancer and cure: A critical analysis.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28244479/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\688a830b448c28ef8df673ae551b6ba5.txt",
+    "content_length": 850,
+    "added_time": "2025-07-20T22:15:19.645671",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "afb50644d06ad9758afd1a44c15f0ab8": {
+    "title": "Measuring cancer evolution from the genome.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27741350/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\afb50644d06ad9758afd1a44c15f0ab8.txt",
+    "content_length": 1466,
+    "added_time": "2025-07-20T22:15:22.190721",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "c7f8da94e4260e87be3d2351e6a012b8": {
+    "title": "Tumor cell metabolism: cancer's Achilles' heel.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18538731/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\c7f8da94e4260e87be3d2351e6a012b8.txt",
+    "content_length": 830,
+    "added_time": "2025-07-20T22:15:24.050919",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "976e7a9f68d9bb66189dc0ae49fa8dcb": {
+    "title": "Field cancerization in breast cancer.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35362092/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\976e7a9f68d9bb66189dc0ae49fa8dcb.txt",
+    "content_length": 2077,
+    "added_time": "2025-07-20T22:15:27.065597",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "9209d4c4f26386a0d58e2fdb1f1ae682": {
+    "title": "What Is Cancer?",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31761807/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\9209d4c4f26386a0d58e2fdb1f1ae682.txt",
+    "content_length": 807,
+    "added_time": "2025-07-20T22:15:29.324670",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "aad14f678751fcbcbc97bd42dbfbd3e9": {
+    "title": "Mapping cancer origins.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21458665/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\aad14f678751fcbcbc97bd42dbfbd3e9.txt",
+    "content_length": 349,
+    "added_time": "2025-07-20T22:15:31.853516",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "467feafa4b493504e3e24a91de8c61bd": {
+    "title": "Signaling, cancer cell plasticity, and intratumor heterogeneity.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38702718/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\467feafa4b493504e3e24a91de8c61bd.txt",
+    "content_length": 1697,
+    "added_time": "2025-07-20T22:15:37.321171",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "c0780d2b7e3eccb125b03cc94ab46ed1": {
+    "title": "New methods in the diagnosis of cancer and gene therapy of cancer based on nanoparticles.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28574057/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\c0780d2b7e3eccb125b03cc94ab46ed1.txt",
+    "content_length": 1177,
+    "added_time": "2025-07-20T22:15:41.016628",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "a79372f85bb2da506b2cc11e72832712": {
+    "title": "Cancer's new normal.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35121920/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\a79372f85bb2da506b2cc11e72832712.txt",
+    "content_length": 50,
+    "added_time": "2025-07-20T22:15:42.628022",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要",
+      "无摘要"
+    ]
+  },
+  "efaf5d17476d4f9dc4052178d7294738": {
+    "title": "Addressing cancer's grand challenges.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33173229/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\efaf5d17476d4f9dc4052178d7294738.txt",
+    "content_length": 69,
+    "added_time": "2025-07-20T22:15:44.235920",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要",
+      "无摘要"
+    ]
+  },
+  "2ceaf39467442633a7a11201708c9b51": {
+    "title": "Delivery technologies for cancer immunotherapy.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30622344/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\2ceaf39467442633a7a11201708c9b51.txt",
+    "content_length": 1159,
+    "added_time": "2025-07-20T22:15:52.420970",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "5f57679d9149834ce7812d71750bebad": {
+    "title": "The history and advances in cancer immunotherapy: understanding the characteristics of tumor-infiltrating immune cells and their therapeutic implications.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32612154/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\5f57679d9149834ce7812d71750bebad.txt",
+    "content_length": 1858,
+    "added_time": "2025-07-20T22:15:54.345942",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "8b0b3494d670145235e9d2c93d0d145f": {
+    "title": "Cancer Immunotherapy.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38158304/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\8b0b3494d670145235e9d2c93d0d145f.txt",
+    "content_length": 698,
+    "added_time": "2025-07-20T22:15:55.893860",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "da76ebf83e30cd7f0ac239d6a4b0dbe0": {
+    "title": "A review of cancer immunotherapy toxicity.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31944278/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\da76ebf83e30cd7f0ac239d6a4b0dbe0.txt",
+    "content_length": 902,
+    "added_time": "2025-07-20T22:15:57.430322",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "7c3ef8fdc9426c40e47765a8f4abc697": {
+    "title": "Immunotherapy: a promising approach for glioma treatment.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37744349/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\7c3ef8fdc9426c40e47765a8f4abc697.txt",
+    "content_length": 1454,
+    "added_time": "2025-07-20T22:15:59.207996",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "aee91c0dd6dc0cba247221db5f8bf51e": {
+    "title": "Integrative Approaches to Cancer Immunotherapy.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31311655/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\aee91c0dd6dc0cba247221db5f8bf51e.txt",
+    "content_length": 976,
+    "added_time": "2025-07-20T22:16:00.752957",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "f378e80d7afa45099e7f8efa2f1238b1": {
+    "title": "Dynamics and specificities of T cells in cancer immunotherapy.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37046001/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\f378e80d7afa45099e7f8efa2f1238b1.txt",
+    "content_length": 1895,
+    "added_time": "2025-07-20T22:16:02.659883",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "32f70ac9664f09050d842159df7e6d78": {
+    "title": "Cancer immunoediting and resistance to T cell-based immunotherapy.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30523282/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\32f70ac9664f09050d842159df7e6d78.txt",
+    "content_length": 1342,
+    "added_time": "2025-07-20T22:16:04.463100",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "b98a25a02e7d74d1052050cebeb14737": {
+    "title": "Corticosteroids and Cancer Immunotherapy.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36648402/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\b98a25a02e7d74d1052050cebeb14737.txt",
+    "content_length": 1234,
+    "added_time": "2025-07-20T22:16:06.021182",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "b627186d69f7b4a3cce2cd4184ea0482": {
+    "title": "Utilizing chemokines in cancer immunotherapy.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35501268/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\b627186d69f7b4a3cce2cd4184ea0482.txt",
+    "content_length": 1031,
+    "added_time": "2025-07-20T22:16:07.638316",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "1dd55e3a3594a190ebceb15f7629fe56": {
+    "title": "An introduction to clinical trial design.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31427159/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\1dd55e3a3594a190ebceb15f7629fe56.txt",
+    "content_length": 712,
+    "added_time": "2025-07-20T22:16:37.799389",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "9bdb44ada513121bc4782222fd7107a7": {
+    "title": "Clinical Trial Considerations in Neuro-oncology.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34213625/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\9bdb44ada513121bc4782222fd7107a7.txt",
+    "content_length": 585,
+    "added_time": "2025-07-20T22:16:39.795904",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "40411a04092d2c755d84c17c41d8f839": {
+    "title": "SPIRIT 2013 statement: defining standard protocol items for clinical trials.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23295957/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\40411a04092d2c755d84c17c41d8f839.txt",
+    "content_length": 1531,
+    "added_time": "2025-07-20T22:16:41.355239",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "c56bb170f789e7940e7a4d2fb0cc084f": {
+    "title": "Organizing a clinical trial for the new investigator.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29395953/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\c56bb170f789e7940e7a4d2fb0cc084f.txt",
+    "content_length": 295,
+    "added_time": "2025-07-20T22:16:42.981813",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "bd04e002ac4e60ee0ec3051f215f94ab": {
+    "title": "Key concepts of clinical trials: a narrative review.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21904102/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\bd04e002ac4e60ee0ec3051f215f94ab.txt",
+    "content_length": 1714,
+    "added_time": "2025-07-20T22:16:44.696698",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "9c88a71fb24d938540bd35c43262cb21": {
+    "title": "Neurofibromatosis Clinical Trial Consortium.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29246097/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\9c88a71fb24d938540bd35c43262cb21.txt",
+    "content_length": 1190,
+    "added_time": "2025-07-20T22:16:46.486789",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "016c9d7f24908999da4827f2c9d3ce9f": {
+    "title": "Preparation of an Academic Clinical Trial.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32827146/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\016c9d7f24908999da4827f2c9d3ce9f.txt",
+    "content_length": 945,
+    "added_time": "2025-07-20T22:16:49.099971",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "faf39041dbcc109627a058bf95ea4cb5": {
+    "title": "Innovation in oncology clinical trial design.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30665053/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\faf39041dbcc109627a058bf95ea4cb5.txt",
+    "content_length": 1919,
+    "added_time": "2025-07-20T22:16:50.916815",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "9c347f90712931aafb807127058490fa": {
+    "title": "Clinical trial enrollment among adolescents with cancer: supplement overview.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24918212/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\9c347f90712931aafb807127058490fa.txt",
+    "content_length": 750,
+    "added_time": "2025-07-20T22:16:52.512323",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "54fe97a8210507a76d549798d4af9078": {
+    "title": "Clinical trial designs--made to order.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8969983/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\54fe97a8210507a76d549798d4af9078.txt",
+    "content_length": 699,
+    "added_time": "2025-07-20T22:16:53.881477",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "585eeda44f209f5ca9d546d2a5ab4ca6": {
+    "title": "Enhancing sepsis biomarker development: key considerations from public and private perspectives.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39003476/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\585eeda44f209f5ca9d546d2a5ab4ca6.txt",
+    "content_length": 2491,
+    "added_time": "2025-07-20T22:17:50.973435",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "d2a1abc778c34e43e567a0f77079f090": {
+    "title": "Recent Developments on Therapeutic and Diagnostic Approaches for COVID-19.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33400058/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\d2a1abc778c34e43e567a0f77079f090.txt",
+    "content_length": 1208,
+    "added_time": "2025-07-20T22:19:34.336848",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "201a5ee18c8275bf4e970ccb4688f1df": {
+    "title": "COVID-19 diagnosis -A review of current methods.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33126180/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\201a5ee18c8275bf4e970ccb4688f1df.txt",
+    "content_length": 1232,
+    "added_time": "2025-07-20T22:19:35.925680",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "829b4ad610167d91a063f6eebffe90a7": {
+    "title": "COVID-19 pandemic: from origins to outcomes. A comprehensive review of viral pathogenesis, clinical manifestations, diagnostic evaluation, and management.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33664170/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\829b4ad610167d91a063f6eebffe90a7.txt",
+    "content_length": 1303,
+    "added_time": "2025-07-20T22:19:37.485052",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "10a8b71dc74e2e3b238bdf77a449e7cd": {
+    "title": "Resolution of coronavirus disease 2019 (COVID-19).",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32749914/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\10a8b71dc74e2e3b238bdf77a449e7cd.txt",
+    "content_length": 592,
+    "added_time": "2025-07-20T22:19:38.816593",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "4cc457512f5325720d726a018f13cbc8": {
+    "title": "Tools and Techniques for Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)/COVID-19 Detection.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33980687/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\4cc457512f5325720d726a018f13cbc8.txt",
+    "content_length": 1766,
+    "added_time": "2025-07-20T22:19:41.371265",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "904aa899536497eba5d91141eaea70ac": {
+    "title": "COVID-19 diagnostic methods in developing countries.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35619009/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\904aa899536497eba5d91141eaea70ac.txt",
+    "content_length": 1882,
+    "added_time": "2025-07-20T22:19:42.942029",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "e9319884c47eaf3dfe3ee32f478fa391": {
+    "title": "Point-of-Care PCR Assays for COVID-19 Detection.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34062874/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\e9319884c47eaf3dfe3ee32f478fa391.txt",
+    "content_length": 1356,
+    "added_time": "2025-07-20T22:19:44.584254",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "1760cb91b1daabce8d2fedb66eb41065": {
+    "title": "Postvaccination COVID-19 among Healthcare Workers, Israel.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33522478/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\1760cb91b1daabce8d2fedb66eb41065.txt",
+    "content_length": 545,
+    "added_time": "2025-07-20T22:19:45.940144",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "3467f5450050960515de355e15e5c48d": {
+    "title": "COVID-19: clinical presentation and detection methods.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34355645/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\3467f5450050960515de355e15e5c48d.txt",
+    "content_length": 1608,
+    "added_time": "2025-07-20T22:19:47.494805",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "5f23935cdba2fd65615c8a6b9a055997": {
+    "title": "Comparison of Rapid Antigen Tests for COVID-19.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33322035/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\5f23935cdba2fd65615c8a6b9a055997.txt",
+    "content_length": 1648,
+    "added_time": "2025-07-20T22:19:49.050552",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "2068601ec20ad2d2ebe40153b31f8638": {
+    "title": "The Role of TDP-43 in Neurodegenerative Disease.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35499795/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\2068601ec20ad2d2ebe40153b31f8638.txt",
+    "content_length": 846,
+    "added_time": "2025-07-20T22:20:55.364374",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "3b42e56aa1f34aed3bdca5a40df2bd98": {
+    "title": "Ageing, Cellular Senescence and Neurodegenerative Disease.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30261683/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\3b42e56aa1f34aed3bdca5a40df2bd98.txt",
+    "content_length": 1444,
+    "added_time": "2025-07-20T22:20:59.204473",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "fc99da95f698f5b8d0dde59017cb6ebb": {
+    "title": "What causes neurodegenerative disease?",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32729289/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\fc99da95f698f5b8d0dde59017cb6ebb.txt",
+    "content_length": 1803,
+    "added_time": "2025-07-20T22:21:00.831866",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "3508c8332bc795f540b2d3ac8fe8e3cb": {
+    "title": "Advancing cell therapy for neurodegenerative diseases.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37084729/",
+    "category": "医学",
+    "file_path": "local_docs\\医学\\3508c8332bc795f540b2d3ac8fe8e3cb.txt",
+    "content_length": 811,
+    "added_time": "2025-07-20T22:21:05.061598",
+    "keywords": [
+      "标题",
+      "作者",
+      "摘要"
+    ]
+  },
+  "4d455549efafd1ecedab7cc7b614bbe2": {
+    "title": "Predicting Information Diffusion on Social Media Using an Epidemiological Approach",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97589-9_15",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\4d455549efafd1ecedab7cc7b614bbe2.txt",
+    "content_length": 1311,
+    "added_time": "2025-07-20T22:28:23.888325",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "5b435fd68f5ade2a61fe1c9292bffad1": {
+    "title": "Discrete Gradient \n              \n                \n              \n              $$\\theta $$\n              \n                θ\n              \n            -Methods for Port-Hamiltonian Systems",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97589-9_16",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\5b435fd68f5ade2a61fe1c9292bffad1.txt",
+    "content_length": 705,
+    "added_time": "2025-07-20T22:31:48.897385",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "21d0fe65716a5258f340bb12f018c96d": {
+    "title": "Two Families of W-Methods: Analysis and Application on Battery Models",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97589-9_10",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\21d0fe65716a5258f340bb12f018c96d.txt",
+    "content_length": 946,
+    "added_time": "2025-07-20T22:31:50.913065",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "ed232d4f607316c8dc88f3b6f9ae08eb": {
+    "title": "Play My Math: Design and Implementation of a Fraction Generator Tool Within a Mathematical Musician Digital Learning Platform",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98185-2_28",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\ed232d4f607316c8dc88f3b6f9ae08eb.txt",
+    "content_length": 1560,
+    "added_time": "2025-07-20T22:28:26.910007",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "f854b5a5b786d9e25c11d9f521e3f421": {
+    "title": "Mathematical Models and Algorithms for Processing Retinal OCTA Images",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97638-4_23",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\f854b5a5b786d9e25c11d9f521e3f421.txt",
+    "content_length": 1177,
+    "added_time": "2025-07-20T22:28:27.917013",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "a88c1cae2124b727a9dafaa19b8dcb42": {
+    "title": "Research on the Evaluation of Wireless Quality",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-6465-8_11",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\a88c1cae2124b727a9dafaa19b8dcb42.txt",
+    "content_length": 903,
+    "added_time": "2025-07-20T22:30:00.006904",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "79d90de87cb08079215b5b0d24e44046": {
+    "title": "Enhancing Bread Spoilage Detection Through Ensemble Machine Learning Approaches",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-93691-3_19",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\79d90de87cb08079215b5b0d24e44046.txt",
+    "content_length": 2075,
+    "added_time": "2025-07-20T22:30:01.012747",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "a0c7bfca23b2c5c9e79a3fcceb4a0ae2": {
+    "title": "Activate Me!: Designing Efficient Activation Functions for Privacy-Preserving Machine Learning with Fully Homomorphic Encryption",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97260-7_3",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\a0c7bfca23b2c5c9e79a3fcceb4a0ae2.txt",
+    "content_length": 2309,
+    "added_time": "2025-07-20T22:30:02.020860",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "f3eccec0d608b97827fbca76f3943202": {
+    "title": "Integrating Tabular Data and Satellite Imagery for House Price Prediction with Explainable Techniques",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-93825-2_15",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\f3eccec0d608b97827fbca76f3943202.txt",
+    "content_length": 1611,
+    "added_time": "2025-07-20T22:30:03.029640",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "688469463e79af013908333574083b9d": {
+    "title": "Predicting Resource Requirements for Disaster Managers Using Machine Learning",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-6951-6_18",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\688469463e79af013908333574083b9d.txt",
+    "content_length": 1127,
+    "added_time": "2025-07-20T22:30:04.036696",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "0a053b0e283126b7928b8f0ce9a637ad": {
+    "title": "Bayesian Optimization for Fine-Tuning an AI Solver: Application to Preventive Maintenance Scheduling Problems",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-8889-0_5",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\0a053b0e283126b7928b8f0ce9a637ad.txt",
+    "content_length": 1354,
+    "added_time": "2025-07-20T22:30:20.725645",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "a29f59283a41f307a1580f5ab7d27207": {
+    "title": "Solving Expensive Dynamic Multi-objective Problem via Cross-Problem Knowledge Transfer",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-7036-9_18",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\a29f59283a41f307a1580f5ab7d27207.txt",
+    "content_length": 1644,
+    "added_time": "2025-07-20T22:30:21.733504",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "13c844312e0b20cc230495939488e2c3": {
+    "title": "Hybrid Niching Differential Evolution with Restart Strategy for Multimodal Optimization",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-7036-9_26",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\13c844312e0b20cc230495939488e2c3.txt",
+    "content_length": 1404,
+    "added_time": "2025-07-20T22:30:22.740819",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "bbbd920fa1fc4a0c54c4ec005e8d31b9": {
+    "title": "Enhanced Optimization Space Learning: Towards Real-Time Compiler Optimization",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-8889-0_7",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\bbbd920fa1fc4a0c54c4ec005e8d31b9.txt",
+    "content_length": 1619,
+    "added_time": "2025-07-20T22:30:23.747534",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "d904c833c0f97635114368307d679d37": {
+    "title": "IEEE802.11ax Multi-frame Transmission Resource Allocation Method for Fault Tolerance",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-6465-8_8",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\d904c833c0f97635114368307d679d37.txt",
+    "content_length": 1506,
+    "added_time": "2025-07-20T22:30:24.753724",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "12dbdf640ec9a110b5fa2fc70c05a6d8": {
+    "title": "Right-Censoring",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-82814-0_3",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\12dbdf640ec9a110b5fa2fc70c05a6d8.txt",
+    "content_length": 1757,
+    "added_time": "2025-07-20T22:31:28.967373",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "4c52d38a0198ec2f37d2ba24b92cbb15": {
+    "title": "MST-SGAN-KGQA: An Approach for Industrial Knowledge Graph Quality Assessment",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-8892-0_42",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\4c52d38a0198ec2f37d2ba24b92cbb15.txt",
+    "content_length": 918,
+    "added_time": "2025-07-20T22:31:29.973904",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "0b9e513a68f2cc4565fcbfdb59aa7db8": {
+    "title": "Imbalanced Learning: Semi-Supervised Graph Imbalanced Regression",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-84732-5_5",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\0b9e513a68f2cc4565fcbfdb59aa7db8.txt",
+    "content_length": 1488,
+    "added_time": "2025-07-20T22:31:30.982708",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "83eb408b41c1a88385f4dd26e739ebda": {
+    "title": "MIGNN: Exploiting Metric Isomorphism for Graph Neural Networks",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-6951-6_24",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\83eb408b41c1a88385f4dd26e739ebda.txt",
+    "content_length": 1721,
+    "added_time": "2025-07-20T22:31:31.988589",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "38e4f465c1a7e4f1b16d72d42fd725b9": {
+    "title": "CAGN-GAT Fusion: A Hybrid Contrastive Attentive Graph Neural Network for Network Intrusion Detection",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-8892-0_35",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\38e4f465c1a7e4f1b16d72d42fd725b9.txt",
+    "content_length": 1766,
+    "added_time": "2025-07-20T22:31:32.996151",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "b626446dc64085dc2f4b16e396bb1c54": {
+    "title": "Extending YOLO for Feature-Based Classification Through Numerical-to-Image Transformation",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-8889-0_40",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\b626446dc64085dc2f4b16e396bb1c54.txt",
+    "content_length": 1337,
+    "added_time": "2025-07-20T22:31:49.905469",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "de2023c9843b9e611c12dc04b6863a79": {
+    "title": "Mean-Square Monotonicity Analysis of \n              \n                \n              \n              $$\\theta $$\n              \n                θ\n              \n            -Maruyama Methods",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97589-9_17",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\de2023c9843b9e611c12dc04b6863a79.txt",
+    "content_length": 834,
+    "added_time": "2025-07-20T22:31:51.922349",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "b9f0547724e5d505e81b0e4663e6d8e6": {
+    "title": "Monitoring \n              \n                \n              \n              $$CO_2$$\n              \n                \n                  C\n                  \n                    O\n                    2\n                  \n                \n              \n             in Seismic Data Using Neural Network",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97596-7_22",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\b9f0547724e5d505e81b0e4663e6d8e6.txt",
+    "content_length": 1611,
+    "added_time": "2025-07-20T22:31:52.927044",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "8649cb562ec0af11e2b1d7ac04e21067": {
+    "title": "PMNS Arithmetic for Elliptic Curve Cryptography",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97260-7_9",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\8649cb562ec0af11e2b1d7ac04e21067.txt",
+    "content_length": 1434,
+    "added_time": "2025-07-20T22:32:09.745354",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "3863414da79d5af895f110aa424c5ad5": {
+    "title": "FPTRU: Optimization of NTRU-Prime and TLS Performance Assessment",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97260-7_11",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\3863414da79d5af895f110aa424c5ad5.txt",
+    "content_length": 1834,
+    "added_time": "2025-07-20T22:32:10.753781",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "5054afe6cd7b504ebb630968706d551a": {
+    "title": "Leveled Homomorphic Encryption over Composite Groups",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97260-7_2",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\5054afe6cd7b504ebb630968706d551a.txt",
+    "content_length": 1535,
+    "added_time": "2025-07-20T22:32:11.760639",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "cb6d73aa9ec373e28619181ed13342e0": {
+    "title": "Tearing Solutions for Tree Traversal in Stateful Hash-Based Cryptography",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97260-7_21",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\cb6d73aa9ec373e28619181ed13342e0.txt",
+    "content_length": 1475,
+    "added_time": "2025-07-20T22:32:12.765892",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "eecf66f12ba1d7aac162dbf6e1aa51d0": {
+    "title": "Simultaneously Simple Universal and Indifferentiable Hashing to Elliptic Curves",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97260-7_18",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\eecf66f12ba1d7aac162dbf6e1aa51d0.txt",
+    "content_length": 1280,
+    "added_time": "2025-07-20T22:32:13.770553",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "5de7a7a16cc0870ea7d5f6f9b62ec752": {
+    "title": "Predicting Long-Term Electricity Consumption Using Time Series Data: Use Case of the UK Electricity Data",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-92614-3_3",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\5de7a7a16cc0870ea7d5f6f9b62ec752.txt",
+    "content_length": 1847,
+    "added_time": "2025-07-20T22:32:23.169336",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "58aae22f26bccf0b599193e122563cf6": {
+    "title": "Macroeconomic performance of European Union's small open economies during the COVID-19 pandemic",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10100-024-00948-7",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\58aae22f26bccf0b599193e122563cf6.txt",
+    "content_length": 1302,
+    "added_time": "2025-07-20T22:32:24.173258",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "a55d779bc1c2b73a753cd010b5d1fed3": {
+    "title": "A machine learning based regulatory risk index for cryptocurrencies",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s00180-025-01629-y",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\a55d779bc1c2b73a753cd010b5d1fed3.txt",
+    "content_length": 1399,
+    "added_time": "2025-07-20T22:32:25.181221",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "5f86f1d0d8f511fd1119fe0ee8092d44": {
+    "title": "Economy-wide consequences of credit subsidies to targeted firms",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s00199-024-01623-3",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\5f86f1d0d8f511fd1119fe0ee8092d44.txt",
+    "content_length": 1708,
+    "added_time": "2025-07-20T22:32:26.187319",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "8c54fab5f3170520e08b6e9a4b852015": {
+    "title": "Kaldor–Kalecki Business Cycle Model: An 80-Year Multidisciplinary Retrospective",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s11071-025-11170-8",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\8c54fab5f3170520e08b6e9a4b852015.txt",
+    "content_length": 1483,
+    "added_time": "2025-07-20T22:32:27.193885",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "dbac81c93e208a50e2daebe13fd2eb0d": {
+    "title": "Banking sector size and economic performance in the Euro area countries",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10663-025-09653-3",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\dbac81c93e208a50e2daebe13fd2eb0d.txt",
+    "content_length": 1298,
+    "added_time": "2025-07-20T22:32:28.203873",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "d0c3236f1e677df860dc7f2b368a124d": {
+    "title": "Great expectations: a tale of two transitions—a survey of the evidence on expectations in transition economies",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s00712-025-00907-z",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\d0c3236f1e677df860dc7f2b368a124d.txt",
+    "content_length": 1291,
+    "added_time": "2025-07-20T22:32:29.211689",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "ebe564cd3c2b8ca39a42e330ff90852c": {
+    "title": "Macroeconomic drivers of CO_2 emissions: a panel estimation for African countries",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/s10663-025-09644-4",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\ebe564cd3c2b8ca39a42e330ff90852c.txt",
+    "content_length": 1912,
+    "added_time": "2025-07-20T22:32:30.220256",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "3a3d22538321f653f83b3bad4ff038fa": {
+    "title": "Leveraging Gamification in E-Commerce for Climate Change: A Persuasive Technology Acceptance Model (TAM) Approach",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97654-4_3",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\3a3d22538321f653f83b3bad4ff038fa.txt",
+    "content_length": 1800,
+    "added_time": "2025-07-20T22:32:49.159730",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "a6cdd5438d942983d1f1046c6aa6ca01": {
+    "title": "Emotions Geogame: Developing a Game for Mapping Emotions and Evaluating Places",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97606-3_17",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\a6cdd5438d942983d1f1046c6aa6ca01.txt",
+    "content_length": 1371,
+    "added_time": "2025-07-20T22:32:50.167802",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "63af76453d3d4da418a2b01c7f2123b4": {
+    "title": "Empathy-Driven Persuasion: A Serious Game for Anti-bullying Education via First-Person Perpetrator Experience",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97177-8_4",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\63af76453d3d4da418a2b01c7f2123b4.txt",
+    "content_length": 1632,
+    "added_time": "2025-07-20T22:32:51.174020",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "39c08593ead375a95e8b456b359f96fa": {
+    "title": "Immersive Virtual Reality to Support Hand Exercises for Stroke Rehabilitation: A Design Science Research Approach",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97177-8_1",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\39c08593ead375a95e8b456b359f96fa.txt",
+    "content_length": 1602,
+    "added_time": "2025-07-20T22:32:52.178066",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "f225b3961cf0218365551a56c9d0565f": {
+    "title": "Evaluating Design Strategies for AI Virtual Teaching Assistants and Immersive Learning Scaffolding in Programmed Teaching Games",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-6294-4_21",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\f225b3961cf0218365551a56c9d0565f.txt",
+    "content_length": 885,
+    "added_time": "2025-07-20T22:37:36.675104",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "1b1e391cb35ec803f4ab6067e719826a": {
+    "title": "A Game-Based Collaborative Decision-Making Approach for Cultural Heritage Reuse",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97660-5_23",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\1b1e391cb35ec803f4ab6067e719826a.txt",
+    "content_length": 1950,
+    "added_time": "2025-07-20T22:32:54.192565",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "31d9016fb3b0728b762c08bfccaf4223": {
+    "title": "Open Data Portals Engagement: A Cross-Country Analysis of Game Elements",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98033-6_18",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\31d9016fb3b0728b762c08bfccaf4223.txt",
+    "content_length": 1578,
+    "added_time": "2025-07-20T22:32:55.200240",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "0e087068116c80d7454521530b1f2f3f": {
+    "title": "Game Theory Approaches for Pokémon AI Battle Simulation",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98167-8_9",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\0e087068116c80d7454521530b1f2f3f.txt",
+    "content_length": 806,
+    "added_time": "2025-07-20T22:32:56.206190",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "c200a04802ae09ec36df45b9b6fd5058": {
+    "title": "Blockchain and IoT-Driven Vaccine Supply Chains Promoting Secure and Transference with Machine Learning-Enhanced Demand Forecasting",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-92614-3_16",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\c200a04802ae09ec36df45b9b6fd5058.txt",
+    "content_length": 2307,
+    "added_time": "2025-07-20T22:33:23.852845",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "5f014cda70070dd7c86a058acb914e8d": {
+    "title": "Generalized Confidentiality",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-91058-6_6",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\5f014cda70070dd7c86a058acb914e8d.txt",
+    "content_length": 1780,
+    "added_time": "2025-07-20T22:33:24.860009",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "fc305889cd8af37e45351b7f9088e2bc": {
+    "title": "Mixed-Integer Multi-objective Programming for Intermodal Supply Chain Design",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97596-7_6",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\fc305889cd8af37e45351b7f9088e2bc.txt",
+    "content_length": 1693,
+    "added_time": "2025-07-20T22:33:25.872396",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "05541418ae5ead3ec5af35f8e8a952d8": {
+    "title": "Characterization of Key Processes for Production Systems Optimization",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97596-7_16",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\05541418ae5ead3ec5af35f8e8a952d8.txt",
+    "content_length": 1646,
+    "added_time": "2025-07-20T22:33:26.878344",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "bc406fb1bb00dcf85528d964c4897608": {
+    "title": "Confidentiality",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-91058-6_5",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\bc406fb1bb00dcf85528d964c4897608.txt",
+    "content_length": 2317,
+    "added_time": "2025-07-20T22:33:27.884235",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "17c8e7966bd41e45eae857d529e76f8e": {
+    "title": "Blockchain-Based Detection of Unauthorized Data Modification in Database",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98167-8_5",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\17c8e7966bd41e45eae857d529e76f8e.txt",
+    "content_length": 1426,
+    "added_time": "2025-07-20T22:33:28.892395",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "05d0c549d1ddb65c952f4bf50a49b32a": {
+    "title": "Warehouse Receipt Financing Governance Optimization Based on the Blockchain",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-93825-2_17",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\05d0c549d1ddb65c952f4bf50a49b32a.txt",
+    "content_length": 989,
+    "added_time": "2025-07-20T22:33:29.900062",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "8e6e85779c392e1768c00aa9146f819e": {
+    "title": "Review of the Climate Change Resilience Measures in Port Context",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97648-3_10",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\8e6e85779c392e1768c00aa9146f819e.txt",
+    "content_length": 1399,
+    "added_time": "2025-07-20T22:33:30.909004",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "53de2414a197475072277896102217b4": {
+    "title": "A New Definition of a Smart and Healthy City Through a Literature Review on Accessible Urban Green Space",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97660-5_19",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\53de2414a197475072277896102217b4.txt",
+    "content_length": 1500,
+    "added_time": "2025-07-20T22:34:25.735310",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "08949e6941da58bcc8657ebff402cc04": {
+    "title": "Developing a Methodological Framework to Assess Social Equity in Regional Spaces Through the Lens of Space Syntax",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97660-5_16",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\08949e6941da58bcc8657ebff402cc04.txt",
+    "content_length": 1503,
+    "added_time": "2025-07-20T22:34:48.999932",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "b13e2b96a2a8643aaa83e9926dbe64ca": {
+    "title": "Visibility Graph Analysis vs. Human Mobility Patterns: An Empirical Validation of Simulation-Based Analysis Using Space Syntax in Public Squares",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97654-4_4",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\b13e2b96a2a8643aaa83e9926dbe64ca.txt",
+    "content_length": 2043,
+    "added_time": "2025-07-20T22:34:27.751146",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "eff1ad6c297f0e386582d95e2dbb86bf": {
+    "title": "Urban and Valuation Aspects of an Illegal Neighborhood: The Case of Campo Sorbo in Ancient Capua",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97660-5_30",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\eff1ad6c297f0e386582d95e2dbb86bf.txt",
+    "content_length": 4476,
+    "added_time": "2025-07-20T22:34:50.005249",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "c15e094eba3de4cd3699f79085d2b9fd": {
+    "title": "Digital Twin as a Tool for Participatory Cultural Heritage Regeneration: The Case of Pavia Historical Urban Center in Italy",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97576-9_29",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\c15e094eba3de4cd3699f79085d2b9fd.txt",
+    "content_length": 1142,
+    "added_time": "2025-07-20T22:34:51.013130",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "256ae2f7164cde882af3c3dc7fa3ecc4": {
+    "title": "X-Minutes Cities Before Modernity: The Case of Roman Foundation Cities",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97638-4_18",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\256ae2f7164cde882af3c3dc7fa3ecc4.txt",
+    "content_length": 1695,
+    "added_time": "2025-07-20T22:34:30.770373",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "ab1caf303ed5aacae8d5049bf96a4c33": {
+    "title": "Measuring Settlement Efficiency. Application to an Urban Regeneration",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97645-2_17",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\ab1caf303ed5aacae8d5049bf96a4c33.txt",
+    "content_length": 2058,
+    "added_time": "2025-07-20T22:34:31.777961",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "b2dace4c5a0f604cf229491b33d4af74": {
+    "title": "PS-U-GO’s Urban Living Lab: An Educational Space for Urban Commons in Naples (Italy)",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97660-5_22",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\b2dace4c5a0f604cf229491b33d4af74.txt",
+    "content_length": 1368,
+    "added_time": "2025-07-20T22:34:32.782657",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "a5e894bca45bf2c27e5af3004f669798": {
+    "title": "A Bio-Inspired Smart Home: AI-Driven Adaptive Energy Management with Edge Computing, Blockchain Security, and Self-Powered IoT Sensors",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97651-3_9",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\a5e894bca45bf2c27e5af3004f669798.txt",
+    "content_length": 1381,
+    "added_time": "2025-07-20T22:34:43.966263",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "4e1a7c1de5fd44bba7dc0c7a16927521": {
+    "title": "High Speed Rail Stations in Territorial Areas: Sustainable Development and Quality of New Landscape",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97648-3_29",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\4e1a7c1de5fd44bba7dc0c7a16927521.txt",
+    "content_length": 1800,
+    "added_time": "2025-07-20T22:35:03.827383",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "764fe0c634f1a574598513ec1e0e13ab": {
+    "title": "Green Communications for Wireless Multimedia: Energy-Efficient Solutions and Sustainability Perspective",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-6465-8_23",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\764fe0c634f1a574598513ec1e0e13ab.txt",
+    "content_length": 1703,
+    "added_time": "2025-07-20T22:34:45.978977",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "dc6c027edb5a7fdede8e854880f22c59": {
+    "title": "Using Smart Equipment to Collect Data Required in Developing Sustainable Urban Mobility Plans",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97638-4_7",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\dc6c027edb5a7fdede8e854880f22c59.txt",
+    "content_length": 1366,
+    "added_time": "2025-07-20T22:35:02.820017",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "2637324e47d263eabce93918ba195697": {
+    "title": "Modeling Government Business Ecosystems with Ecosystem Governance Compass",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-93598-5_32",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\2637324e47d263eabce93918ba195697.txt",
+    "content_length": 1318,
+    "added_time": "2025-07-20T22:34:47.991183",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "8f6c1c8d2470d826502074ae1cded1fc": {
+    "title": "Wireless Multimedia Communication in Smart Cities: Applications and Challenges",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-6465-8_14",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\8f6c1c8d2470d826502074ae1cded1fc.txt",
+    "content_length": 1017,
+    "added_time": "2025-07-20T22:34:57.786930",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "68ba3c3c4fe0cf99bce8e27f9520bafc": {
+    "title": "Communal Level Cybersecurity Incidents in the Slovak Republic",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97603-2_3",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\68ba3c3c4fe0cf99bce8e27f9520bafc.txt",
+    "content_length": 1312,
+    "added_time": "2025-07-20T22:34:58.793022",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "10f5c0772b10843a2aeb248cc78ace71": {
+    "title": "Smart and Happy Cities: Towards a Definition and a Methodology for Evaluating the Emotional Perception of Happiness",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97657-5_9",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\10f5c0772b10843a2aeb248cc78ace71.txt",
+    "content_length": 1841,
+    "added_time": "2025-07-20T22:34:59.798371",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "62a828f2558089f03d4fbf71e7dbc965": {
+    "title": "Open Local Governance",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97651-3_7",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\62a828f2558089f03d4fbf71e7dbc965.txt",
+    "content_length": 1838,
+    "added_time": "2025-07-20T22:35:00.806972",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "9930070f715fc76d75ace22254359299": {
+    "title": "Web of Things Based Advanced Smart Parking Management Solution",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97654-4_27",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\9930070f715fc76d75ace22254359299.txt",
+    "content_length": 1465,
+    "added_time": "2025-07-20T22:35:01.812572",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "9c7de65c4901844c69afa7d34e7bda8e": {
+    "title": "DDoS Cyberattacks in Smart Home IoT Networks and Common Mitigation Techniques",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-92625-9_12",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\9c7de65c4901844c69afa7d34e7bda8e.txt",
+    "content_length": 1702,
+    "added_time": "2025-07-20T22:35:04.832570",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "1d7e9d23af61b6c61d8e8451d64030eb": {
+    "title": "A Comparative Analysis of Energy Transition and Carbon Footprint in the Mediterranean Islands",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97606-3_6",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\1d7e9d23af61b6c61d8e8451d64030eb.txt",
+    "content_length": 1693,
+    "added_time": "2025-07-20T22:35:55.225541",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "8979429a3a9aaf421198589ed1366b07": {
+    "title": "Sustainable Fuels and Decarbonization: Challenges and Opportunities",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97337-6_1",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\8979429a3a9aaf421198589ed1366b07.txt",
+    "content_length": 820,
+    "added_time": "2025-07-20T22:35:56.230798",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "cba12388c1493e6a61625e6763c016f2": {
+    "title": "Renewable Energy Communities as a Tool for a Just Green Transition in Inner Areas: A Pilot Project in Sardinia (Italy)",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97603-2_13",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\cba12388c1493e6a61625e6763c016f2.txt",
+    "content_length": 1894,
+    "added_time": "2025-07-20T22:35:57.238296",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "d56a1de2091bb9a71c862ff3c6eb8704": {
+    "title": "Spatial Multicriteria Decision Aiding for Regional Energy Planning and Assessment. The Case Study of Gotland, Sweden",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97645-2_5",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\d56a1de2091bb9a71c862ff3c6eb8704.txt",
+    "content_length": 2065,
+    "added_time": "2025-07-20T22:35:58.246386",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "70f9702bf71df1f7fd899a442a8dfd74": {
+    "title": "Role of IoT for Energy Monitoring and Energy Management System in Smart Renewable Energy Community: Concept, Need and Proposed Architecture",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-92625-9_15",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\70f9702bf71df1f7fd899a442a8dfd74.txt",
+    "content_length": 2341,
+    "added_time": "2025-07-20T22:37:00.025667",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "db65f56ead5f488d2e155ff339249689": {
+    "title": "Comprehensive Analysis of Zero-Carbon and Low-Carbon Sustainable Fuels and Their Combustion Emissions",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97337-6_2",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\db65f56ead5f488d2e155ff339249689.txt",
+    "content_length": 873,
+    "added_time": "2025-07-20T22:36:00.258033",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "67b96b480e1052eae8577a2fa7a99f65": {
+    "title": "Renewable Energy Communities Monitoring, Optimization, and Planning. The RECMOP Research Project",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97663-6_10",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\67b96b480e1052eae8577a2fa7a99f65.txt",
+    "content_length": 1768,
+    "added_time": "2025-07-20T22:36:01.265212",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "381610b06fdf40a8a37f1ddc0e43bc23": {
+    "title": "Biogas Production from Food Waste",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-89099-4_4",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\381610b06fdf40a8a37f1ddc0e43bc23.txt",
+    "content_length": 524,
+    "added_time": "2025-07-20T22:36:54.989559",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "f4da305d8923e3700e1095d4b01f4b75": {
+    "title": "Planning for Environmental Justice. A Multi-methodological Approach",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97589-9_5",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\f4da305d8923e3700e1095d4b01f4b75.txt",
+    "content_length": 2145,
+    "added_time": "2025-07-20T22:36:17.425408",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "872b230958e04ba90cb4551b242bd206": {
+    "title": "The Update of the Provincial Structural Plan of Potenza to Strengthen Climate Change Adaptation Policies in the Governance of Basilicata",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97606-3_7",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\872b230958e04ba90cb4551b242bd206.txt",
+    "content_length": 1583,
+    "added_time": "2025-07-20T22:36:18.433547",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "7537342bd8e796be2268b9cd7d4a7f27": {
+    "title": "Clustering and Association Rules Mining for Coral Reef Fish Distribution: A Data-Driven Approach in the Mediterranean Sea",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-93598-5_31",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\7537342bd8e796be2268b9cd7d4a7f27.txt",
+    "content_length": 1185,
+    "added_time": "2025-07-20T22:36:19.440792",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "136348c4f9fd9a2b68b3d85c8db38f74": {
+    "title": "A Methodological Approach for Identifying Hotspots of Regulating Ecosystem Services: Insights from Campania and Sardinia, Italy",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97606-3_11",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\136348c4f9fd9a2b68b3d85c8db38f74.txt",
+    "content_length": 1980,
+    "added_time": "2025-07-20T22:36:20.447013",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "433e62250c1ef390ae59d3f5a7e9afd6": {
+    "title": "EU Regulatory Framework and Funding to Combat Desertification",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97617-9_20",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\433e62250c1ef390ae59d3f5a7e9afd6.txt",
+    "content_length": 799,
+    "added_time": "2025-07-20T22:36:21.452319",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "b3266b2422dcc552700072f9ab0ada47": {
+    "title": "A Systematic Review of Climate Action Plans: A Focus on Urban Green Spaces for Adaptation and Energy Saving",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97606-3_8",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\b3266b2422dcc552700072f9ab0ada47.txt",
+    "content_length": 2056,
+    "added_time": "2025-07-20T22:36:22.461353",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "d1905e83e76369d1507069c177e666c0": {
+    "title": "Current Solutions for Sustainable Ecosystems",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-96660-6_2",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\d1905e83e76369d1507069c177e666c0.txt",
+    "content_length": 1111,
+    "added_time": "2025-07-20T22:36:23.466844",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "c8642879fead10dcd2e50583afa2f36c": {
+    "title": "Exploring Slow Tourism: Integration Between Mobility, Heritage, and Landscape Regeneration",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97663-6_9",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\c8642879fead10dcd2e50583afa2f36c.txt",
+    "content_length": 1761,
+    "added_time": "2025-07-20T22:36:24.473795",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "aabef7483170a25e1cdc3453e1be1716": {
+    "title": "A Family of Representations of the Poincaré Group",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-84140-8_3",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\aabef7483170a25e1cdc3453e1be1716.txt",
+    "content_length": 597,
+    "added_time": "2025-07-20T22:36:32.181842",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "af17921d5c91e19ba515343849927238": {
+    "title": "A Strongly Continuous Unitary Representation of \n            \n              \n            \n            $${{\\textrm{SU}}}(2)$$\n            \n              \n                SU\n                (\n                2\n                )\n              \n            \n          ",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-84140-8_2",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\af17921d5c91e19ba515343849927238.txt",
+    "content_length": 514,
+    "added_time": "2025-07-20T22:36:33.190662",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "e5c35cd5ecc7072317ef7e3c87c52373": {
+    "title": "Applications of 3D Photonics",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-91508-6_8",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\e5c35cd5ecc7072317ef7e3c87c52373.txt",
+    "content_length": 586,
+    "added_time": "2025-07-20T22:36:34.197612",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "edad7059e6b7edbd3e759053dca1595e": {
+    "title": "The Evolution from 2D to 3D PICs",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-91508-6_3",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\edad7059e6b7edbd3e759053dca1595e.txt",
+    "content_length": 467,
+    "added_time": "2025-07-20T22:36:35.204196",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "8607f87886ac8049c01d330eda2bb7aa": {
+    "title": "Comparing Emerging Technologies in Image Classification: From Quantum to Kolmogorov",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97576-9_17",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\8607f87886ac8049c01d330eda2bb7aa.txt",
+    "content_length": 1552,
+    "added_time": "2025-07-20T22:36:36.211891",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "29bc0cc7002d59127e594662dc642229": {
+    "title": "Introduction to 2D and 3D Photonics",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-91508-6_1",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\29bc0cc7002d59127e594662dc642229.txt",
+    "content_length": 576,
+    "added_time": "2025-07-20T22:36:37.216584",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "a9650387c9364ee97366caf0e67e39de": {
+    "title": "Modeling and Simulation Tools",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-91508-6_9",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\a9650387c9364ee97366caf0e67e39de.txt",
+    "content_length": 996,
+    "added_time": "2025-07-20T22:36:38.224610",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "5d8879aef8baca14fb14bd3c98412814": {
+    "title": "A Hybrid Quantum-AI Architecture for Enhanced Blockchain Consensus",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98033-6_9",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\5d8879aef8baca14fb14bd3c98412814.txt",
+    "content_length": 1924,
+    "added_time": "2025-07-20T22:36:39.231341",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "105b892d09773808e36de6be96d93531": {
+    "title": "Innovative Approaches to Plastic Waste Management",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-96660-6_3",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\105b892d09773808e36de6be96d93531.txt",
+    "content_length": 942,
+    "added_time": "2025-07-20T22:36:52.973796",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "96859770d2445f37c4e8668c19a1816c": {
+    "title": "Current Conversion Technologies and Case Studies",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-89099-4_3",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\96859770d2445f37c4e8668c19a1816c.txt",
+    "content_length": 636,
+    "added_time": "2025-07-20T22:36:53.980296",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "7fda22a427c52bb1b3f255cd1676a541": {
+    "title": "Leveraging Advanced Technologies for Enhanced Regulatory Compliance in Public Organizations",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-96262-2_5",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\7fda22a427c52bb1b3f255cd1676a541.txt",
+    "content_length": 2111,
+    "added_time": "2025-07-20T22:36:55.997694",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "ce934b8c318752eff5e342fc9e70e664": {
+    "title": "Advancing Predictive Maintenance Strategies Through the Integration of Fourth Industrial Revolution (4IR) Technologies for Pressure Vessels and Pipelines in the Petrochemical Industry",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-92625-9_4",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\ce934b8c318752eff5e342fc9e70e664.txt",
+    "content_length": 1351,
+    "added_time": "2025-07-20T22:36:57.003027",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "3182559d69ae3e360764f456e94d10ef": {
+    "title": "Sonochemistry Science and Engineering: Understanding the Concepts",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-91656-4_1",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\3182559d69ae3e360764f456e94d10ef.txt",
+    "content_length": 864,
+    "added_time": "2025-07-20T22:36:58.009311",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "07ba6e31626a1b43c53f4ba44df209a8": {
+    "title": "Building the Future While Preserving the Past: Digital Tools and Community Engagement to “Re-Generate” Historic Buildings in Post-Disaster Scenarios",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-97654-4_19",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\07ba6e31626a1b43c53f4ba44df209a8.txt",
+    "content_length": 1368,
+    "added_time": "2025-07-20T22:36:59.016567",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "c1052dc5d488189c641f260e1f41082c": {
+    "title": "Cultivating Sustainable Self-regulated Learning Strategies in Digital Learning Courses",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98197-5_22",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\c1052dc5d488189c641f260e1f41082c.txt",
+    "content_length": 1904,
+    "added_time": "2025-07-20T22:37:37.685539",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "aed21b407b34483039e812f4f23a885f": {
+    "title": "Gen AI-Assisted Management Learning: A Perspective on the Alignment of Intrinsic and Extrinsic Motivation",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98197-5_36",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\aed21b407b34483039e812f4f23a885f.txt",
+    "content_length": 900,
+    "added_time": "2025-07-20T22:37:38.693884",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "4d0334c03b9c85b67a75bd0a8480bee3": {
+    "title": "Fostering Affective-Domain Learning Objectives in Design Thinking: The Impact of Online Collaborative Whiteboards on Basic Psychological Needs",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98197-5_10",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\4d0334c03b9c85b67a75bd0a8480bee3.txt",
+    "content_length": 1449,
+    "added_time": "2025-07-20T22:37:39.699620",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "816d50b8a4fdb6b30fbc8d9276d3f5bd": {
+    "title": "A Pre-experimental Study on the Implementation of Joyful and Game-Based Learning Using Quizizz to Enhance Students’ Interest and Cognitive Learning Outcomes in Lathe Machining",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98197-5_11",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\816d50b8a4fdb6b30fbc8d9276d3f5bd.txt",
+    "content_length": 1884,
+    "added_time": "2025-07-20T22:37:40.707289",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "e432eb69b9b8e7951aa2be9c45a6b241": {
+    "title": "Adaptive Auto-Prompting in Inquiry-Based Learning: Enhancing Curiosity and Learning Engagement to Improve Higher-Order Thinking",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98185-2_14",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\e432eb69b9b8e7951aa2be9c45a6b241.txt",
+    "content_length": 1846,
+    "added_time": "2025-07-20T22:37:41.714740",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "a74ccfc6f1a668865f1ce8a297880b6e": {
+    "title": "AI-Supported Summative Reflection to Foster Motivation and Teamwork in STEM: An Application of the 6E+R Framework",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98185-2_19",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\a74ccfc6f1a668865f1ce8a297880b6e.txt",
+    "content_length": 2277,
+    "added_time": "2025-07-20T22:37:42.721849",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "4128cf644a580905d64c5980ad62afda": {
+    "title": "Enhancing Language Learning Through AI-Driven Feedback and Collaborative Virtual Reality",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98197-5_32",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\4128cf644a580905d64c5980ad62afda.txt",
+    "content_length": 1113,
+    "added_time": "2025-07-20T22:37:43.728791",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "0e92c76a6d28045aff591c3cd0653926": {
+    "title": "Conversion Process in the Production and Distribution of Digital Resources in Higher Education",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-96262-2_8",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\0e92c76a6d28045aff591c3cd0653926.txt",
+    "content_length": 1686,
+    "added_time": "2025-07-20T22:37:51.426706",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "d7bcf22aeca3b3f52608e1e23b29c70b": {
+    "title": "ChatGPT-Assisted Escape Room: Preservice Teacher Preparation for Generative Artificial Intelligence Enhanced Instructional Design",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98185-2_15",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\d7bcf22aeca3b3f52608e1e23b29c70b.txt",
+    "content_length": 1189,
+    "added_time": "2025-07-20T22:37:52.436008",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "7a40fc3f5e0869f9c71c2a8f149365d1": {
+    "title": "Enhancing Medical Students’ Higher-Order Thinking Skills: A Brain-Based Learning Approach Integrated with Educational Technology",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98197-5_17",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\7a40fc3f5e0869f9c71c2a8f149365d1.txt",
+    "content_length": 1487,
+    "added_time": "2025-07-20T22:37:53.447086",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "e01a60d3e15363ecfbdf5891740a6355": {
+    "title": "Bridging the Digital Divide: User Interface Design Principles for Enhancing Elderly Learners’ Engagement with Educational Technology",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98185-2_30",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\e01a60d3e15363ecfbdf5891740a6355.txt",
+    "content_length": 1415,
+    "added_time": "2025-07-20T22:37:54.454599",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "dc6e8e3a74a3b4a68412e5ca91301433": {
+    "title": "Drawing for You: Exploring the Impact of Integrating Educational Technology into Picture Book Creation on Students’ Understanding of Special Education",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98185-2_5",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\dc6e8e3a74a3b4a68412e5ca91301433.txt",
+    "content_length": 1662,
+    "added_time": "2025-07-20T22:37:55.464382",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "84dbf41c6ad4e7691172a1948c02db5d": {
+    "title": "Teaching Practices and Effectiveness Assessment of AI Courses Assisted by Large Language Models",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-981-96-8892-0_8",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\84dbf41c6ad4e7691172a1948c02db5d.txt",
+    "content_length": 1691,
+    "added_time": "2025-07-20T22:37:56.470475",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "acb66357d8c391fd7f98d23424bc1081": {
+    "title": "Educational Transformation – A Failed Prediction? A Decennial Cross-Sectional Study Within Norwegian Teacher Education",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-98197-5_23",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\acb66357d8c391fd7f98d23424bc1081.txt",
+    "content_length": 1879,
+    "added_time": "2025-07-20T22:37:57.481412",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  },
+  "b28f95d4d22232e20619385652932786": {
+    "title": "Integrating Artificial Intelligence in English Language Classrooms: Enhancing English for Specific Purposes Education",
+    "source": "Springer",
+    "url": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-92625-9_11",
+    "category": "科学",
+    "file_path": "local_docs\\科学\\b28f95d4d22232e20619385652932786.txt",
+    "content_length": 2257,
+    "added_time": "2025-07-20T22:37:58.487450",
+    "keywords": [
+      "标题",
+      "作者",
+      "发表日期",
+      "摘要"
+    ]
+  }
+}

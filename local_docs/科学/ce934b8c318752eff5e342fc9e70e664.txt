@@ -1,0 +1,7 @@
+标题: Advancing Predictive Maintenance Strategies Through the Integration of Fourth Industrial Revolution (4IR) Technologies for Pressure Vessels and Pipelines in the Petrochemical Industry
+
+作者: Mashaba, Thulani, Mathaba, Tebello N. D.
+
+发表日期: 2026-01-01
+
+摘要: The maintenance of pressure vessels and pipelines in the petrochemical industry constitutes a significant portion of operational costs. This study addresses the gap in understanding the benefits and barriers associated with adopting predictive maintenance, leveraging Fourth Industrial Revolution (4IR) technologies. A systematic literature review, focusing on recent case studies, ranks benefits and barriers based on frequency. The results underscore benefits such as real-time condition monitoring, digitization, reduced shutdown costs, increased flexibility, decreased expenses, improved data quality, prolonged equipment life, and enhanced safety. Successful implementation requires adequate financial support and the development of new knowledge and skills. Additionally, the study highlights a noticeable dominance of literature originating from the Asian and North American continents, specifically from China and the US, respectively, suggesting a need for further research in other continents like Africa, South America, and Australia to understand contextual nuances comprehensively.

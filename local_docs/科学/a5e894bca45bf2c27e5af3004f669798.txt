@@ -1,0 +1,7 @@
+标题: A Bio-Inspired Smart Home: AI-Driven Adaptive Energy Management with Edge Computing, Blockchain Security, and Self-Powered IoT Sensors
+
+作者: Shuhaiber, Ahmed
+
+发表日期: 2026-01-01
+
+摘要: The evolution of smart home systems has emphasized energy efficiency, automation, and security; however, existing models often compromise user adaptability, real-time decision-making, and sustainability. This paper presents a bio-inspired, eco-smart home framework that integrates self-powered IoT sensors, edge computing, AI-driven adaptive interfaces, and blockchain-enhanced security to optimize energy management while maintaining occupant comfort. The proposed system employs triboelectric energy-harvesting sensors to reduce battery dependency, edge computing (NVIDIA Jetson Xavier NX, Raspberry Pi 4) to minimize latency, and AI-powered adaptive dashboards to personalize automation based on user behavior. Additionally, a blockchain-based authentication mechanism ensures secure data exchange between IoT devices, cloud infrastructure, and actuators. A prototype implementation and real-world evaluation demonstrate significant improvements in energy efficiency, responsiveness, and user engagement compared to traditional smart home systems. This research contributes a novel, sustainable, and intelligent architecture that redefines the future of self-learning, eco-friendly smart homes.

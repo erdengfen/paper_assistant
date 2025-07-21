@@ -1,0 +1,16 @@
+标题: Memory-two strategies forming symmetric mutual reinforcement learning
+  equilibrium in repeated prisoners' dilemma game
+
+作者: Masahiko Ueda
+
+发表日期: 2021-08-05
+
+摘要: We investigate symmetric equilibria of mutual reinforcement learning when
+both players alternately learn the optimal memory-two strategies against the
+opponent in the repeated prisoners' dilemma game. We provide a necessary
+condition for memory-two deterministic strategies to form symmetric equilibria.
+We then provide three examples of memory-two deterministic strategies which
+form symmetric mutual reinforcement learning equilibria. We also prove that
+mutual reinforcement learning equilibria formed by memory-two strategies are
+also mutual reinforcement learning equilibria when both players use
+reinforcement learning of memory-$n$ strategies with $n>2$.

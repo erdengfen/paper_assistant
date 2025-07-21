@@ -1,0 +1,7 @@
+标题: Wireless Multimedia Communication in Smart Cities: Applications and Challenges
+
+作者: Yuan, Xueqi, Yan, Yang, Li, Yanfen
+
+发表日期: 2026-01-01
+
+摘要: This article delves into the significance of wireless multimedia communication in the context of smart cities, emphasizing its diverse applications such as traffic management, public safety, and environmental monitoring. It addresses the technical challenges associated with deploying scalable and reliable multimedia services in urban environments and proposes solutions to overcome these challenges. By leveraging wireless multimedia communication, smart cities can enhance efficiency, safety, and sustainability through real-time data collection, analysis, and dissemination. The integration of multimedia services in urban environments requires robust infrastructure, efficient network management, and advanced communication technologies to ensure seamless and uninterrupted multimedia services for the benefit of residents and stakeholders in smart city initiatives.

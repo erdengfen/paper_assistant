@@ -1,0 +1,30 @@
+标题: Efficient Gradient-Enhanced Bayesian Optimizer with Comparisons to
+  Quasi-Newton Optimizers for Unconstrained Local Optimization
+
+作者: André L. Marchildon, David W. Zingg
+
+发表日期: 2025-04-12
+
+摘要: The probabilistic surrogates used by Bayesian optimizers make them popular
+methods when function evaluations are noisy or expensive to evaluate. While
+Bayesian optimizers are traditionally used for global optimization, their
+benefits are also valuable for local optimization. In this paper, a framework
+for gradient-enhanced unconstrained local Bayesian optimization is presented.
+It involves selecting a subset of the evaluation points to construct the
+surrogate and using a probabilistic trust region for the minimization of the
+acquisition function. The Bayesian optimizer is compared to quasi-Newton
+optimizers from MATLAB and SciPy for unimodal problems with 2 to 40 dimensions.
+The Bayesian optimizer converges the optimality as deeply as the quasi-Newton
+optimizer and often does so using significantly fewer function evaluations. For
+the minimization of the 40-dimensional Rosenbrock function for example, the
+Bayesian optimizer requires half as many function evaluations as the
+quasi-Newton optimizers to reduce the optimality by 10 orders of magnitude. For
+test cases with noisy gradients, the probabilistic surrogate of the Bayesian
+optimizer enables it to converge the optimality several additional orders of
+magnitude relative to the quasi-Newton optimizers. The final test case involves
+the chaotic Lorenz 63 model and inaccurate gradients. For this problem, the
+Bayesian optimizer achieves a lower final objective evaluation than the SciPy
+quasi-Newton optimizer for all initial starting solutions. The results
+demonstrate that a Bayesian optimizer can be competitive with quasi-Newton
+optimizers when accurate gradients are available, and significantly outperforms
+them when the gradients are innacurate.

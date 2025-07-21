@@ -1,0 +1,25 @@
+标题: Hybrid Quantum-Classical Neural Networks for Downlink Beamforming
+  Optimization
+
+作者: Juping Zhang, Gan Zheng, Toshiaki Koike-Akino, Kai-Kit Wong, Fraser Burton
+
+发表日期: 2024-08-08
+
+摘要: This paper investigates quantum machine learning to optimize the beamforming
+in a multiuser multiple-input single-output downlink system. We aim to combine
+the power of quantum neural networks and the success of classical deep neural
+networks to enhance the learning performance. Specifically, we propose two
+hybrid quantum-classical neural networks to maximize the sum rate of a downlink
+system. The first one proposes a quantum neural network employing parameterized
+quantum circuits that follows a classical convolutional neural network. The
+classical neural network can be jointly trained with the quantum neural network
+or pre-trained leading to a fine-tuning transfer learning method. The second
+one designs a quantum convolutional neural network to better extract features
+followed by a classical deep neural network. Our results demonstrate the
+feasibility of the proposed hybrid neural networks, and reveal that the first
+method can achieve similar sum rate performance compared to a benchmark
+classical neural network with significantly less training parameters; while the
+second method can achieve higher sum rate especially in presence of many users
+still with less training parameters. The robustness of the proposed methods is
+verified using both software simulators and hardware emulators considering
+noisy intermediate-scale quantum devices.

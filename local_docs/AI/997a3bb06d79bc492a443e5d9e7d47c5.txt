@@ -1,0 +1,22 @@
+标题: Online unsupervised Learning for domain shift in COVID-19 CT scan
+  datasets
+
+作者: Nicolas Ewen, Naimul Khan
+
+发表日期: 2021-07-31
+
+摘要: Neural networks often require large amounts of expert annotated data to
+train. When changes are made in the process of medical imaging, trained
+networks may not perform as well, and obtaining large amounts of expert
+annotations for each change in the imaging process can be time consuming and
+expensive. Online unsupervised learning is a method that has been proposed to
+deal with situations where there is a domain shift in incoming data, and a lack
+of annotations. The aim of this study is to see whether online unsupervised
+learning can help COVID-19 CT scan classification models adjust to slight
+domain shifts, when there are no annotations available for the new data. A
+total of six experiments are performed using three test datasets with differing
+amounts of domain shift. These experiments compare the performance of the
+online unsupervised learning strategy to a baseline, as well as comparing how
+the strategy performs on different domain shifts. Code for online unsupervised
+learning can be found at this link:
+https://github.com/Mewtwo/online-unsupervised-learning

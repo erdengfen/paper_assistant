@@ -1,0 +1,5 @@
+标题: New methods in the diagnosis of cancer and gene therapy of cancer based on nanoparticles.
+
+作者: M A Zaimy, N Saffarzadeh, A Mohammadi, H Pourghadamyari, P Izadi, A Sarli, L K Moghaddam, S R Paschepari, H Azizi, S Torkamandi, J Tavakkoly-Bazzaz
+
+摘要: Cancer is one of the leading cause of death in the world with the prevalence of >10 million mortalities annually. Current cancer treatments include surgical intervention, radiation, and taking chemotherapeutic drugs, which often kill the healthy cells and result in toxicity in patients. Therefore, researchers are looking for ways to be able to eliminate just cancerous cells. Intra-tumor heterogeneity of cancerous cells is the main obstacle on the way of an effective cancer treatment. However, better comprehension of molecular basis of tumor and the advent of new diagnostic technologies can help to improve the treatment of various cancers. Therefore, study of epigenetic changes, gene expression of cancerous cells and employing methods that enable us to correct or minimize these changes is critically important. In this paper, we will review the recent advanced strategies being used in the field of cancer research.

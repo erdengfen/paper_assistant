@@ -1,0 +1,20 @@
+标题: A Strongly Continuous Unitary Representation of 
+            
+              
+            
+            $${{\textrm{SU}}}(2)$$
+            
+              
+                SU
+                (
+                2
+                )
+              
+            
+          
+
+作者: Beyer, Reinhard Horst
+
+发表日期: 2026-01-01
+
+摘要: The goal of this chapter is the construction of the spinor representation of $${{\textrm{SU}}}(2)$$ SU ( 2 ) , used in the description of Spin  $$\frac{1}{2}$$ 1 2 particles in quantum mechanics.

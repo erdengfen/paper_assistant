@@ -1,0 +1,10 @@
+标题: Self-Organizing Multilayered Neural Networks of Optimal Complexity
+
+作者: V. Schetinin
+
+发表日期: 2005-04-13
+
+摘要: The principles of self-organizing the neural networks of optimal complexity
+is considered under the unrepresentative learning set. The method of
+self-organizing the multi-layered neural networks is offered and used to train
+the logical neural networks which were applied to the medical diagnostics.
