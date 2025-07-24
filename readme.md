@@ -36,15 +36,9 @@ online_models用来管理各种可选的在线模型，实际上因为我只给d
 
 ## 使用方法
 
-首次下载完之后，命令行运行这玩意安装依赖
+首次下载完之后复制example_env.txt为 .env文件（文件名空白），填入自己的apikey
 
-```
-pip install -r requirements.txt
-```
-
-然后复制example_env.txt为 .env文件（文件名空白），填入自己的apikey
-
-之后就可以正常使用了，首次运行程序会自动下载本地轻量模型
+之后就可以正常使用了，首次运行程序start.bat会自动下载本地轻量模型并建立虚拟环境安装依赖
 
 不要管app.py，在使用gradio之后很多修改没有再去app.py里改了，它算是个半成品
 

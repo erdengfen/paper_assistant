@@ -11,4 +11,5 @@ jieba
 transformers
 torch
 gradio
-serpapi
+langchain_community
+google-search-results
